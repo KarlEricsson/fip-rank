@@ -1,0 +1,3025 @@
+Name                        Countries Points Position
+Arturo Coello               ESP        12910          1
+Alejandro Galan             ESP        12200          2
+Juan Lebron                 ESP        12200          2
+Martin Di Nenno             ARG        10455          4
+Francisco Navarro           ESP         9970          5
+Agustin Tapia               ARG         9730          6
+Franco Stupaczuk            ARG         8950          7
+Fernando Belasteguin        ARG         8740          8
+Federico Chingotto          ARG         8610          9
+Juan Tello                  ARG         5550         10
+Pablo Lima                  BRA         5345         11
+Carlos Daniel Gutierrez     ARG         5020         12
+Alejandro Ruiz              ESP         4565         13
+Jeronimo Gonzalez           ESP         4175         14
+Luciano Capra               ARG         3498         15
+Maximiliano Sanchez         ARG         3498         15
+Jorge Nieto                 ESP         3455         17
+Victor Ruiz                 ESP         3350         18
+Lucas Bergamini             BRA         3070         19
+Javier Garrido              ESP         2950         20
+Jon Sanz                    ESP         2785         21
+Miguel Yanguas              ESP         2765         22
+Francisco Manuel Gil        ESP         2400         23
+Ramiro Moyano               ARG         2285         24
+Gonzalo Rubio               ESP         2160         25
+Alejandro Arroyo            ESP         2145         26
+Lucas Campagnolo            BRA         2025         27
+Agustin Gomez Silingo       ARG         1963         28
+Agustin Gutierrez           ARG         1695         29
+Javier Rico                 ESP         1594         30
+Ivan Ramirez                ESP         1587         31
+Javier Leal                 ESP         1558         32
+Juan Cruz Belluati          ARG         1548         33
+Jose Antonio Diestro        ESP         1505         34
+Javier Ruiz                 ESP         1315         35
+Jose Rico                   ESP         1285         36
+Antonio Fernandez           ESP         1275         37
+Raul Marcos                 ESP         1157         38
+Jose David Sanchez          ESP         1111         39
+Jairo Bautista              ESP         1078         40
+Denis Tomas Perino          ITA         1056         41
+Pablo Lijo                  ESP         1053         42
+Mario Del Castillo          ESP         1038         43
+Cristian German Gutierrez   ARG         1005         44
+Ignacio Sager               ESP         1001         45
+Jaime Munoz                 ESP          991         46
+Enrique Goenaga             ESP          983         47
+Alvaro Cepero               ESP          971         48
+Eduardo Alonso              ESP          960         49
+Jorge Ruiz                       ESP   959   50
+Miguel Lamperti                  ARG   951   51
+Miguel Semmler                   ESP   951   51
+Javier Valdes                    CHI   934   53
+Daniel Windahl                   SWE   886   54
+Ãlvaro Melendez Amaya            ESP   873   55
+Javier Garcia                    ESP   860   56
+Jesus Moya                       ESP   854   57
+Diego Gil                        ESP   853   58
+Ignacio VilariÃ±o Gestoso        ESP   843   59
+Juanlu Esbri                     ESP   833   60
+Sergio Alba                      ESP   816   61
+Miguel Benitez Lara              ESP   810   62
+Mario Ortega                     ESP   801   63
+Nicolas Suescun                  ITA   797   64
+Teodoro Zapata                   ESP   796   65
+Benjamin Tison                   FRA   787   66
+Antonio Luque                    ESP   783   67
+Marc Quilez                      ESP   768   68
+Anton Sans                       ESP   766   69
+Facundo Dominguez                ITA   764   70
+Ruben Rivera                     ESP   763   71
+Arnau Ayats                      ESP   760   72
+Toni Bueno                       ESP   759   73
+Federico MouriÃ±o                ARG   732   74
+Pablo Cardona                    ESP   720   75
+Jose Carlos Gaspar               ESP   711   76
+Jose Luis Gonzalez               ESP   709   77
+Victor Mena                      ESP   701   78
+Aris Patiniotis                  ITA   694   79
+Miguel Angel Solbes              ESP   683   80
+Rafael Mendez                    ESP   666   81
+Jose Solano Marmolejo            ESP   663   82
+Javier Barahona                  ESP   656   83
+Francisco Miguel Ramirez Navas   ESP   653   84
+Mario Huete Hernandez            ESP   648   85
+Sergio Icardo                    ESP   648   85
+Emiliano Martin Iriart           ITA   647   87
+Carlos Marti                     ESP   646   88
+Carlos Perez Cabeza              ESP   637   89
+Pedro Melendez Amaya             ESP   634   90
+Pedro Vera                       ESP   626   91
+Adria Mercadal                   ESP   617   92
+Francisco Gomes                  BRA   616   93
+Ricardo Martinez                 ESP   598   94
+Miguel Gonzalez                  ESP   592   95
+Salvador Oria                    ESP   588   96
+Aitor Garcia                     ESP   582   97
+Javier Martinez                  ESP   569   98
+Jeremy Scatena                   FRA   566   99
+Jaime Fermosell Delgado       ESP   563   100
+Pablo Garcia Rodrigo          ESP   545   101
+Ignacio Piotto Albornoz       ARG   541   102
+Thomas Leygue                 FRA   539   103
+Marcos Cordoba                ESP   526   104
+Francisco Guerrero            ESP   524   105
+Jose Jimenez Casas            ESP   515   106
+Emilio Sanchez Chamero        ESP   513   107
+Inigo Jofre                   ESP   510   108
+Cayetano Rocafort Lores       ESP   488   109
+Juan Martin Diaz Martinez     ESP   480   110
+Luis Hernandez Quesada        ESP   477   111
+Jaime Menendez                ESP   476   112
+Simon Vasquez                 SWE   475   113
+Maxime Moreau                 FRA   466   114
+Alonso Rodriguez Martinez     ESP   451   115
+Adrian Ronco Lopez            ESP   450   116
+Marco Cassetta                ITA   444   117
+Daniele Cattaneo              ITA   428   118
+Aday Santana                  ESP   425   119
+Simone Cremona                ITA   423   120
+Jose Maria Mouliaa            ESP   413   121
+Lorenzo Di Giovanni           ITA   406   122
+Riccardo Sinicropi            ITA   406   122
+Jose Roman Martinez Sanchis   ESP   401   124
+Alex Chozas                   ARG   400   125
+Mauro Agustin Salandro        ITA   375   126
+David Fernandez Fernandez     ESP   372   127
+Luis Pozo Carballo            ESP   370   128
+Javier Navarro Perez          ESP   355   129
+Christian Fuster              ESP   348   130
+Matias Diaz Sangiorgio        ESP   348   130
+Cristobal Garcia Blanco       ESP   343   132
+Alvaro Montiel Caruso         ESP   341   133
+Belar Vera Lopez              ESP   339   134
+Jerome Inzerillo              FRA   318   135
+Martin Sanchez PiÃ±eiro       ESP   318   135
+Matias Nicoletti              ITA   317   137
+Christian Medina Murphy       GBR   314   138
+Bastien Blanque               FRA   306   139
+Juan Manuel Restivo           ITA   296   140
+Sergi Nogueras Lorenzo        ESP   286   141
+Roger Aromi Siquier           ESP   284   142
+Relis Ferreyra                ARG   283   143
+Dylan Guichard                FRA   273   144
+Clement Geens                 BEL   267   145
+Gonzalo Perez Arbona          ESP   261   146
+Javier Rodriguez Marquez      ESP   260   147
+Maxime Deloyer                BEL   257   148
+Manuel Rocafort Lores         ESP   253   149
+Pepe Aliaga                             ESP   251   150
+Victor Tur Checa                        ESP   246   151
+Pedro Araujo                            POR   230   152
+Adrien Maigret                          FRA   223   153
+IÃ±igo Zaratiegui Pedrosa               ESP   223   153
+Valentino Acosta Kremnitzer             ARG   222   155
+Adrian Marques Berdonce                 ESP   217   156
+Johan Bergeron                          FRA   217   156
+Mohammed Saadon Alkuwari                QAT   202   158
+Ferran Insa Sotillo                     ESP   186   159
+Ivo Andenmatten GudiÃ±o                 ARG   186   159
+Pablo Castillo Valverde                 ESP   181   161
+Ernesto Moreno Carrasco                 ESP   180   162
+Candido Jorge Alfaro                    ESP   176   163
+Alessandro Tinti                        ITA   166   164
+Adrian Rodriguez rodriguez-Manzaneque   ESP   163   165
+Manuel Vives                            FRA   163   165
+Luis Ortega Perez                       ESP   160   167
+Santiago Rolla                          ARG   157   168
+Carl Knutsson                           SWE   155   169
+Federico Beltrami                       ITA   155   169
+Joao Pedro Flores                       BRA   153   171
+Abdulla Alhijji                         QAT   152   172
+Facundo Rodrigo Luis Lopez              ARG   147   173
+Ramiro Pereyra                          ARG   147   173
+Cristobal Martinez                      CHI   146   175
+Cristobal Molina                        CHI   146   175
+Oscar Matias Almada                     ARG   142   177
+Samuel Jones                            GBR   142   177
+Javier Perez Morillas                   ESP   140   179
+Marcelo Capitani                        ITA   140   179
+Juan Ignacio Rubini                     ARG   138   181
+Daniel Bressel Ambrossi                 ESP   137   182
+Pablo Acevedo Iturribarria              MEX   133   183
+Amilcar Gaston Bejarano                 ARG   131   184
+Diego Ramos                             URU   130   185
+Nicolai Maniucov Maniucova              ESP   129   186
+Leandro Augsburger                      ARG   128   187
+Uri Botello Cohen                             125   188
+Giulio Graziotti                        ITA   118   189
+Alejandro Tasa Van Beek                 ESP   117   190
+Mario Cerezo Casado                     ESP   117   190
+Mauricio A Rivero                       ARG   115   192
+Gonzalo Escobar                         ARG   114   193
+Jerome Peeters                          BEL   111   194
+Gonzalo Diaz Sangiorgio                 ESP   110   195
+Stefano Palma Flores                    BRA   108   196
+Maximiliano Sanchez Blasco              ARG   107   197
+Alvaro Sola Sala                        ESP   106   198
+Julien Seurin                           FRA   106   198
+Pablo Gonzalez Neria              ESP   104   200
+Pol Hernandez Alvarez             ESP   104   200
+Alejandro Urzola Abad             ESP   103   202
+Bram Meijer                       NED   102   203
+Valentino Libaak                  ARG   102   203
+Mariano Leonel Romano             ARG   101   205
+Miguel Melero Bernal              ESP   100   206
+Nicolas Crosio                    ARG   100   206
+Carlos Luna                       ECU    98   208
+Fabricio Parra Heck               ARG    98   208
+Pablo Nicolas Egea                ARG    97   210
+Jabor Al-Mutawa                   QAT    96   211
+Gerard Arnaldos Serrano           ESP    91   212
+Luca Mezzetti                     ITA    91   212
+Michele Bruno                     ITA    91   212
+Juan Ignacio De Pascual           ARG    90   215
+Sten Richters                     NED    90   215
+Matias Damian Gonzalez            ARG    88   217
+Sergi Arquerons Sanchez           ESP    88   217
+Javier Lopez Garcia               ESP    87   219
+Henrique Barbosa                  POR    86   220
+Francisco Alameda Robles          ESP    85   221
+Julian Di Bene                    ITA    85   221
+Miguel Morales Domenech           ESP    84   223
+Nicolas Brusa                     ITA    84   223
+Pablo Cuesta Gomez                ESP    84   223
+Jacobo Perez Cendon               ESP    83   226
+Jorge Senoran Fructuoso           ESP    83   226
+Borja Yribarren Abecia            ESP    82   228
+Joaquin Gaitan Bernardi           ARG    82   228
+Mohammed Abdulla                  QAT    82   228
+Flavio Abbate                     ITA    80   231
+Gonzalo Vera                      ARG    80   231
+Luciano Puppo                     ARG    80   231
+Mohammed Al Khanji                QAT    80   231
+Octavio Jorge Lara                MEX    80   231
+Pablo Francisco Amora Hernandez   MEX    80   231
+Carlos Valero Perez Marco         ESP    79   237
+Miguel Deus                       POR    79   237
+Nuno Deus                         POR    79   237
+Gustavo Ariel Aguirre             ARG    78   240
+Alberto Garcia Jimenez            ESP    77   241
+Raul Mendez Carranco              MEX    76   242
+Felipe Calleja                    ARG    74   243
+Andre Freitas                     BRA    72   244
+Youssef Hossam                    EGY    72   244
+Facundo Erguy                     ARG    70   246
+Francisco Britos                  ARG    70   246
+Guillem Figuerola Santiago        ESP    70   246
+Lautaro Mambrini                  ARG    70   246
+Rodrigo Coello Manso           ESP   68   250
+Abdulaziz Saadon Alkuwari      QAT   67   251
+Xavi Rodriguez Vila            ESP   67   251
+Daniel Santigosa Sastre        ESP   66   253
+Nalle Grinda                   MON   65   254
+Edoardo Sardella               ITA   64   255
+Philemon Raichman              FRA   63   256
+Dylan Demian Cuello            ARG   62   257
+Gabriel Eduardo Molina         ARG   62   257
+Karlos Rodriguez Vidal         ESP   61   259
+Matias Emiliano Gutierrez C.   ARG   61   259
+Pablo Olmo Villa               ESP   61   259
+Juan Mieres Petruf             ESP   60   262
+Julian Leite                   ARG   60   262
+Martin Ariel Andornino         ITA   60   262
+Enzo Jensen Sirvent            ITA   59   265
+Juan Pablo Dip Nazar           ARG   59   265
+Jose Angel Montoya             MEX   58   267
+Adrian Blanco Antelo           ESP   57   268
+Ali Alsaygh                    QAT   57   268
+Boris Castro Garcia            ESP   57   268
+German Gaston Buenanueva       ARG   57   268
+Ludovic Cancel                 FRA   57   268
+Exequiel MouriÃ±o              ARG   56   273
+Filippo Scala                  ITA   56   273
+Iago Gonzalez NiÃ±o            ESP   56   273
+Anton Andersson                SWE   55   276
+Gonzalo Sassano                ARG   55   276
+Dorian De Meyer                FRA   53   278
+Higor Ensslin Alves            URU   53   278
+Federico Galli                 ITA   52   280
+Juan Manuel ArgaÃ±aras         ARG   52   280
+Marcello Paiva Jardim          BRA   52   280
+Alberto Gasca Romero           ESP   51   283
+Juan Pablo Andrada             ARG   51   283
+Cristian Jensen Sirvent        ITA   50   285
+Manuel Prado Prego             ESP   50   285
+Adrian Perez                   PAR   49   287
+Roberto Rodriguez Alonso       ESP   49   287
+Afonso Fazendeiro              POR   48   289
+Alejandro Jerez Carnero        ESP   48   289
+Adrian Martinez Galindo        ESP   47   291
+Gonzalo Daniel Frete           ARG   47   291
+Joel Olivera Palos             ESP   46   293
+Pablo Molina Tofanelli         ARG   46   293
+Gonzalo Gabriel Alfonso        ARG   45   295
+Joaquim Florensa Hernandez     ESP   45   295
+Joaquin De Astoreca            ARG   45   295
+Maximo Jesus Maldonado         ARG   45   295
+Federico Fabian Mujica         MEX   44   299
+Khalid Saadon Alkuwari           QAT   44   299
+Thomas Vanbauce                  FRA   44   299
+Jose Pablo Padilla               MEX   43   302
+Matias Emmanuel Del Moral        ARG   43   302
+Maximiliano Jael Cejas           ARG   43   302
+Valentin San Juan                ARG   43   302
+Sebastian MuÃ±oz Campos          CHI   42   306
+Ahmed Alaa Marzouk               EGY   41   307
+Giulio Lovascio                  ITA   41   307
+Javier Hazouri Celorio           MEX   41   307
+Jose Maria Alvarez Torres        MEX   41   307
+Nahuel Pineda                    ARG   41   307
+Alvaro Garcia Gallego            ESP   40   312
+Aly Zaghloul                     EGY   40   312
+Francisco Javier Velasco Ayuso   ESP   40   312
+Guillermo Casal Maldonado        ESP   40   312
+Ignacio Andres Lehyt Sances      CHI   40   312
+Rayyan Al Jufairi                QAT   40   312
+Diego Pascual Simon Tomas        ESP   39   318
+Marcos Andrada                   ARG   39   318
+Pedro Toccafondo Neto            BRA   38   320
+Alvaro Lopez Luque               ESP   37   321
+Javier Reiter                    ARG   37   321
+Khaled Nagy                      EGY   37   321
+Sergio Esteban Barroso           ESP   37   321
+Georges Wakim                    EGY   36   325
+Ignacio Jara Saez                CHI   36   325
+Javier Bravo Alvarez                   36   325
+Linus Frost                      SWE   36   325
+Mauricio Jara Saez               CHI   36   325
+Fabio Gabriel Maldonado          ARG   35   330
+Fernando MuÃ±oz                  ARG   35   330
+Leonardo Yob                     ARG   35   330
+Sebastian Solenghi               ARG   35   330
+Tomas Luco                       ARG   35   330
+Asier Maqueda Laboret            ESP   34   335
+Pablo Deltell Juan               ESP   34   335
+Raul Peralta Corredor            ESP   34   335
+Ali Alarif                       UAE   33   338
+Fernando Martin Lopez            ESP   33   338
+Ignacio Alonso Chillaron         ESP   33   338
+Julio Cesar Julianoti            BRA   33   338
+Seif Adel Abou Senna             EGY   33   338
+Sergi Guimet Bigas               ESP   33   338
+Fares Al Janahi                  UAE   32   344
+Giacomo Miccini                  ITA   31   345
+Luis Enrique Barrientos Garcia   MEX   31   345
+Miguel Oliveira                  POR   31   345
+Pier Giulio Farabbi              ITA   31   345
+Rafael Moreno Negrin             ESP   31   345
+Ian Walker                           CHI   30   350
+Oscar Vazquez Fernandez              ESP   30   350
+Lucas Danuzzo                        ARG   29   352
+Daniel Martinez Otero                ESP   28   353
+Joaquin Mazzeo Rubi                  ARG   28   353
+Martin Araujo De Lizarza             URU   28   353
+Rayan Abdulla                        QAT   28   353
+Alejandro Moya Rodriguez             ESP   27   357
+Daniel Alberto Chelar                ARG   27   357
+Federico Dip Nazar                   ITA   27   357
+Johan Fors                           SWE   27   357
+Abdulla Alemadi                      QAT   26   361
+Agustin Gallardo                     ARG   26   361
+Jeremias Rufino                      ARG   26   361
+Manuel Delgado Bertuchi              ESP   26   361
+Ruben Cuevas Tornero                 ESP   26   361
+Yann Auradou                         FRA   26   361
+Alberto MiÃ±arro Rubio               ESP   25   367
+Alejandro Navas Balaguer             ESP   25   367
+Alfonso Viuda Hernandez              ESP   25   367
+Ali Al Yafei                         QAT   25   367
+Antonio Gonzalez vazquez-Monjardin   ESP   25   367
+Arnau Riba                           ESP   25   367
+Bart Van Opstal                      NED   25   367
+Carlos Lopez Hidalgo                 ESP   25   367
+Cristian Calneggia                   ITA   25   367
+Hector Guisande Fraga                      25   367
+Igor Amondarain Gonzalez             ESP   25   367
+Ivan Lopez MuÃ±oz                    SUI   25   367
+Jorge Marcelo Daud                   ARG   25   367
+Jorrit Notenboom                     NED   25   367
+Nasser Al Yafei                      QAT   25   367
+NicolÃ² Cotto                        ITA   25   367
+Pablo Hernan Barrera                 ARG   25   367
+Pelayo Villaverde Millan             ESP   25   367
+Lucas Cunha                          BRA   24   385
+Maximiliano Fernandez Ortiz          ARG   24   385
+Tamer Hanna                          EGY   24   385
+Abdulrahman Alawadhi                 KUW   23   388
+Alan Gabriel Ibarrola                ARG   23   388
+Diego Sebastian Ruiz                 ARG   23   388
+Francois Azzola                      BEL   23   388
+Guillermo Collado Losada             ESP   23   388
+Nicolas Cruz Camoriano               ARG   23   388
+Ahmed Mostafa Nazir                  EGY   22   394
+Ignacio Archieri                     ARG   22   394
+Bruno Nakid                          BRA   21   396
+Matias Negrete Oliva                 CHI   21   396
+Matthias Wunner                      GER   21   396
+Oier Zuazua Aostri                   ESP   21   396
+Teo Gamondi                          ARG   21   396
+Adrian Naranjo Martinez              ESP   20   401
+Claudio SantibaÃ±ez                  CHI   20   401
+Javier Puerto Elvira                 ESP   20   401
+Joaquin Paez                         ARG   20   401
+Jose Juan Matea Delgado              ESP   20   401
+Matheus De Avila Simonato            BRA   20   401
+Pol Espinal Rey                      ESP   20   401
+Rene Lindenbergh                     NED   20   401
+Santino Giuliani Lombardo            ARG   20   401
+Tomas Martinez Pezoa                 CHI   20   401
+Daniel Luna Peinado                  ESP   19   411
+Eneko Arija Ochoa De Alda            ESP   19   411
+Joaquin Terceros                     ARG   19   411
+Julio Pulido Alegre                  ESP   19   411
+Omar Makhlouf                        EGY   19   411
+Oscar Guiral Mallart                 ESP   19   411
+Thijs Roper                                19   411
+Agustin Pioli                        ARG   18   418
+Albin Olsson                         SWE   18   418
+Antonio Varo Ramos                   ESP   18   418
+Denis Ignacio Caluva                 ARG   18   418
+Emanuel Juan Mandrile                ARG   18   418
+Esteban Poletti                      ARG   18   418
+Ezio Antonio Zama Desoche            MEX   18   418
+Farid Sat                            ARG   18   418
+Fernando Poggi                       ARG   18   418
+Francisco Maier                      ARG   18   418
+Gustavo Briner                       ARG   18   418
+Javier Eloy Perez Perez              ESP   18   418
+Jose Maria Garcia sanchez-Castilla   ESP   18   418
+Luca Santino Cortese                 ARG   18   418
+Luciano Moreta                       ARG   18   418
+Luciano Romano                       ARG   18   418
+Moises Rafael Rivero                 MEX   18   418
+Oriol Bernal Sans                    ESP   18   418
+Pablo Sisti                          ARG   18   418
+Santiago Frugoni                     ARG   18   418
+Albert Carmona Marin                 ESP   17   438
+Daniel De Castro                     ESP   17   438
+Farsad Shahi                         IRI   17   438
+Felipe Furghestti                    BRA   17   438
+Josep Aymerich Bellmunt              ESP   17   438
+Mariano Battistella                  ARG   17   438
+Orlando Juarez Cano                  MEX   17   438
+Simon Charaf Jones                   MEX   17   438
+Abdullah A. A. I. Alabdulla          UAE   16   446
+Diego Arredondo Garcia               MEX   16   446
+Diego Dorta Diaz                     ESP   16   446
+Fabricio Ivan Peiron                 ARG   16   446
+Martin Noschese                ESP   16   446
+Nicolas Lujan Castaneda        ARG   16   446
+Nicolas Zurita                 ARG   16   446
+Omar Matias Ortiz              ARG   16   446
+Saul Rubio Ponce               ESP   16   446
+Simone Iacovino                ITA   16   446
+Ahmed El Derwy                 EGY   15   456
+Andres Calzada Felici          ESP   15   456
+Arturo Calzada Felici          ESP   15   456
+Jarek Jozwiak                        15   456
+Jeronimo Escalante Diz         MEX   15   456
+Jorge Angles Ponce             ESP   15   456
+Manuel Alejandro Moreira       ITA   15   456
+Mauro Valentino Montenegro     ARG   15   456
+Menno Nolten                   NED   15   456
+Mohit Mohit                    IND   15   456
+Timothy Robin Brown                  15   456
+Tomas Azocar                   CHI   15   456
+Claudius Panske                GER   14   468
+Daniele Catini                 ITA   14   468
+Diego Morat                    ARG   14   468
+Gabriel Londero Almeida        BRA   14   468
+Jose Pedro Montalban Martin    ESP   14   468
+Joshua Pirraglia               ITA   14   468
+Marcos Jimenez Escobar         ESP   14   468
+Nelson Davila                  CHI   14   468
+Noe Navarro Porras             ESP   14   468
+Ramon Meza ZuÃ±iga             CHI   14   468
+Rayane Akram Hamou Bekhouche   ALG   14   468
+Sherif Mohamed Makhlouf        EGY   14   468
+Werner Lootsma                 NED   14   468
+Adam Axelsson                  SWE   13   481
+Antonio Jesus Vallejos Perez   ESP   13   481
+Daniel Appelgren               SWE   13   481
+Felix Gonzales                 ARG   13   481
+Johannes Lindmeyer             GER   13   481
+Juan Cruz Forastello           ARG   13   481
+Juan Pablo Vanella             ITA   13   481
+Lucas Antonini                 ARG   13   481
+Lucas De Souza Teixeira        BRA   13   481
+Marcos Alejo Mardones          ARG   13   481
+Maximiliano MontaÃ±o           MEX   13   481
+Michel Diniz                   BRA   13   481
+Pablo Tejero Delgado           ESP   13   481
+Robin Sietsma                  NED   13   481
+Adria Costa Lechon             ESP   12   495
+Adrian Lopez                   ARG   12   495
+Agustin Maximiliano Parisi     ARG   12   495
+Alejandro Jose Morcos          ARG   12   495
+Alvaro Padilla                 MEX   12   495
+Axel Hein                          ARG   12   495
+Cesar Luis Parodi                  ARG   12   495
+Cristian Daniel Ozan               ARG   12   495
+Dario Gabriel Sacca                ARG   12   495
+Emiliano Ariel Rizo                ARG   12   495
+Fernando Zambrano Sanchez          ESP   12   495
+Gaston Lazzarini                   ARG   12   495
+Giovanni Flores                    ARG   12   495
+Gustavo Javier Mesa                ARG   12   495
+Ignacio Lascioli                   ARG   12   495
+Isaac Huysveld                     BEL   12   495
+Israel Valero Martinez             ESP   12   495
+Javier Perez Moreno                MEX   12   495
+Jerzy Janowicz                     POL   12   495
+Jose Ignacio Aranda                ARG   12   495
+Jose Laurenti                      ARG   12   495
+Juan Pablo Castillo                MEX   12   495
+Juan Pablo Dametto                 ARG   12   495
+Luciano Soliverez                  ARG   12   495
+Manuel Gayone                      ARG   12   495
+Manuel Yuste Apolinar              ESP   12   495
+Mark Isaac Asher Herzberg          MEX   12   495
+Mateo Philippe Coles               USA   12   495
+Mauricio Tofi                      ARG   12   495
+Nicolas Arno                       ARG   12   495
+Nikhil Mohindra                    GBR   12   495
+Pablo Diaz Romero                  ESP   12   495
+Pedro Sequeira                     BRA   12   495
+Sattam Alshahrani                  KSA   12   495
+Christoffer Persson                      11   529
+Francisco Cabeza Teres             ESP   11   529
+Fredrik Ask                        NOR   11   529
+Ivo Agustin NuÃ±ez                 ARG   11   529
+Louie Harris                       GBR   11   529
+Luis Oliver Artigas                ESP   11   529
+Mohamed El Garhy                   EGY   11   529
+Omar Sabry                         EGY   11   529
+Roberto Belmont Pastor             ESP   11   529
+Abdulaziz Redha                    KUW   10   538
+Alberto Molina Dominguez           ESP   10   538
+Alex Cinca Hernandez               ESP   10   538
+Aley Shokeir                       EGY   10   538
+Alvaro Matador Garcia De Vinuesa   ESP   10   538
+Andres Luciano Danei Linaza        ARG   10   538
+Carlos Zarhi                       CHI   10   538
+Felipe Braga Jorge                 BRA   10   538
+Javier Gasca Romero                ESP   10   538
+Joaquin Zerpa                      ARG   10   538
+Luciano Perez Gentile              ARG   10   538
+Mahmoud Moharam                    EGY   10   538
+Martin Rubini                         ARG   10   538
+Mohamed Elzayat                       EGY   10   538
+Omar Tarek                            EGY   10   538
+Pablo Pastor Landaburu                ESP   10   538
+Ricardo Emanuel Colman                ARG   10   538
+Sebastiao MendonÃ§a                   POR   10   538
+Yousef Khamis                         EGY   10   538
+Ahmed Ismail                          EGY    9   557
+Amr Adel                              EGY    9   557
+Andres Fernandez Lancha               ESP    9   557
+Arturo Miguel Hernando NuÃ±ez         ESP    9   557
+Bernardo Roque                        POR    9   557
+Cleo Carvalho                         BRA    9   557
+Edgar Espinosa Angelino               MEX    9   557
+Ids Hannema                           NED    9   557
+Marcio Andre Crizel                   BRA    9   557
+Mariano Danei Linaza                  ARG    9   557
+Marwan Fayad                          EGY    9   557
+Mohamed Kassem                        EGY    9   557
+Pablo Herrera Lara                    ESP    9   557
+Steve Piernicola Stracquadaini        ITA    9   557
+Agustin Greco                         ARG    8   571
+Agustin Salaro                        ARG    8   571
+Alejandro Perez Porta                 ESP    8   571
+Andre Veiga Trindade                  URU    8   571
+Andrea Melisi                         ITA    8   571
+Andres Arredondo                      MEX    8   571
+Ariel Williams Carrasco Paricollo     ESP    8   571
+Arya Roghani                          IRI    8   571
+Borja Sierra Del Val                  MEX    8   571
+Carlos Jacobo H. Martinez             MEX    8   571
+Daniel Luengo Calado                  ESP    8   571
+Diego Garcia Garcia                   ESP    8   571
+Eduardo Agustin Torre                 ARG    8   571
+Emeric Navarro                               8   571
+Facundo Martin Silva                  ECU    8   571
+Federico Salaro                       ARG    8   571
+Gino Galvez Orellana                  CHI    8   571
+Giovane Porciuncula Nucci                    8   571
+Joel Fernandez MuÃ±oz                 ESP    8   571
+Jose Maria Benavides Ponce De Leon    ESP    8   571
+Jose Pablo Rojas Zepeda               MEX    8   571
+Juliano Bergamini                     BRA    8   571
+Lucas Fernandes                       BRA    8   571
+Luis Estrada                          VEN    8   571
+Marc Munne Cuevas                     ESP    8   571
+Marc Pou Serra                        ESP    8   571
+Marcos Gonzalez Blanco                ESP    8   571
+Mariano Agustin Gonzalez San Martin   PAR    8   571
+Nicholas Agritelley                   USA    8   571
+Noa Bonnefoy                   ITA   8   571
+Ricardo Cabello Giacalone      ESP   8   571
+Ross Alexander Willi Taylor          8   571
+Seif Alaa                      EGY   8   571
+Shungo Kusakabe                JPN   8   571
+Skirmantas Macinskas           LTU   8   571
+Theo Bernardo Dos Santos       BRA   8   571
+Viktor Stjern                  SWE   8   571
+Alain Mankabady                EGY   7   608
+Alejandro Rodriguez Duch       ESP   7   608
+Aly Fahmy                      EGY   7   608
+Anderson Haygert               BRA   7   608
+Benjamin Benavente             CHI   7   608
+Borja Jimenez Barra            ESP   7   608
+Cristian Arias Mayoral         ESP   7   608
+Gustavo Nunes                  POR   7   608
+Izan Marin                     ESP   7   608
+Jorge Vega Rivas               ESP   7   608
+Nick Braet                     BEL   7   608
+Pol Alsina                     ESP   7   608
+Rafael Rosell Lopez            ESP   7   608
+Sebastian Aris                 CHI   7   608
+Uriel Maarsen                  NED   7   608
+Xander Aue                     NED   7   608
+Youssef Hazem                  EGY   7   608
+Agustin Reca                   ESP   6   625
+Alan Martinez                  ARG   6   625
+Alexandr Dubrovin              MDA   6   625
+Alfonso Navarro Asenjo         CHI   6   625
+Argel Alexandro Albanes        MEX   6   625
+Asier Gago Martinez            ESP   6   625
+Benjamin Grue                  FRA   6   625
+Borja Trujillo Chang           ESP   6   625
+Bram Coene                     BEL   6   625
+Bruno Alfaro                   ARG   6   625
+Bruno Lopez Garcia             ESP   6   625
+Catalin Tropin                 MDA   6   625
+Douglas Rutgersson                   6   625
+Fahad Sulaiman Al Saad         KSA   6   625
+Federico Scara                 ITA   6   625
+Francisco Coirini              ARG   6   625
+Franco Soria                   URU   6   625
+Frederick Francis Schaefer     NOR   6   625
+Gerard Marti Morale            ESP   6   625
+German Faure                   ARG   6   625
+Gonzalo Valdivieso ComesaÃ±a   CHI   6   625
+Guillermo Closa Pucernau       ESP   6   625
+Isak William BÃ¤ckman          SWE   6   625
+Joao Pedro Alves De Moraes     BRA   6   625
+Joaquin Saura Padilla          ESP   6   625
+Josimar Casanova                   BRA   6   625
+JoÃ£o Paulo Reck Boeira            BRA   6   625
+Juan Diego Gras                    CHI   6   625
+Lucas Duffort                      BRA   6   625
+Luis Alfonso Chacon Gilo           ESP   6   625
+Nacho Moragues MoltÃ²              ESP   6   625
+Olle Andersson                     SWE   6   625
+Omar Althagib                      KSA   6   625
+Pablo Yaybek                       URU   6   625
+Patricio LeÃ³n Ancares             CHI   6   625
+Pierantonio Gherardi               ITA   6   625
+Renzo Gabriel NuÃ±ez               ARG   6   625
+Sebastian Molina                   CHI   6   625
+Vinicius Santos                    BRA   6   625
+Adrian Gonzalez Jimenez            ESP   5   664
+Alejandro Caton Calvo              ESP   5   664
+Alejandro Correa                   ESP   5   664
+Alejandro Eugenio Reino Brehcist   ESP   5   664
+Alex Regner                        SWE   5   664
+Alfonso Sanchez Arriaga            ESP   5   664
+Andy De Bruijne                    NED   5   664
+Carlos Agustin Artigas             ARG   5   664
+Christian Boehnke                  GER   5   664
+Christian Guisado Fernandez        ESP   5   664
+Daniel Lingen                      GER   5   664
+Daniel Salinas Ordenes             CHI   5   664
+Diogo Cruz                         BRA   5   664
+Enrique Cepas                      ESP   5   664
+Ethan Miguel Gonzalez Herrera      ESP   5   664
+Ezequiel Garro                     ARG   5   664
+Fernando Gonzalez                  CHI   5   664
+Filippo Albano                     ITA   5   664
+Hugo Lorenzo Serrano               ESP   5   664
+Ismail Seddik                      EGY   5   664
+Joao Maneck                        BRA   5   664
+Joao Paulo Sasso Menano            BRA   5   664
+Johan BrunstrÃ¶m                   SWE   5   664
+Joris De Weerdt                    BEL   5   664
+Jose Manuel Ortiz Llerena          ESP   5   664
+Kazuki Tomita                      JPN   5   664
+Lenon Flain                        BRA   5   664
+Lucas Bonini Izkovitz              BRA   5   664
+Lucas Gaston Garay                 ARG   5   664
+Luis Sempere Ortega                ESP   5   664
+Maciej Naduk                       POL   5   664
+Max Sjovall                        FIN   5   664
+Miguel Briega Ramos                ESP   5   664
+Miguel Martin Cano                 ESP   5   664
+Mohamed Aboulkassem                EGY   5   664
+Nestor Hernandez Ribas             ESP   5   664
+Nick Merten                         GER   5   664
+Oscar Bosca Alabort                 ESP   5   664
+Paulius Matulevicius                      5   664
+Paulo Hillal                        BRA   5   664
+Pedro Garcia                        BRA   5   664
+Quentin Lacoste                     FRA   5   664
+Renato De Aguiar Chuirki            BRA   5   664
+Rodrigo Fuentealba Turconi          CHI   5   664
+Seif Elkhayat                       EGY   5   664
+Sergio Puertolas Robles             ESP   5   664
+Tomas Cunietti                      ARG   5   664
+Tommaso Rivellini                   ITA   5   664
+Vicente Andrades Caro               CHI   5   664
+Vincent Juelich                     GER   5   664
+Abdullah Ahli                             4   714
+Adham El Zarka                      EGY   4   714
+Agustin Cervera Valdivieso          ARG   4   714
+Albert Trillas Garcia               ESP   4   714
+Alejandro Prados                    ESP   4   714
+Alex Casas Solsona                  ESP   4   714
+Ali Abdelaziz                       EGY   4   714
+Ali Alaa                            EGY   4   714
+Andre Ferreira Van Holstein               4   714
+Andrea Patracchini                  ITA   4   714
+Andres Correa Da Silva              BRA   4   714
+Antonio De Carvalho S. Neto         BRA   4   714
+Axel Holm                           SWE   4   714
+Borja Barrera Delgado               ESP   4   714
+Branco Ovelar Mendez                ARG   4   714
+Braulio Rizo Avila                  ESP   4   714
+Carlos Eugenio Barrera              ESP   4   714
+Carlos Fernandez-CaÃ±adas paredes   ESP   4   714
+Chris Salisbury                     GBR   4   714
+Cristobal NuÃ±ez                    CHI   4   714
+Damian Lopez                        ARG   4   714
+Daniel Concepcion Vaquer            ESP   4   714
+Daniel Perez Martinez               ESP   4   714
+Daniel Thomas Mollica                     4   714
+Daryoush Saber                      IRI   4   714
+David Collgros Riera                      4   714
+David Gala Sanchez                  ESP   4   714
+David Howe Ortiz                    ESP   4   714
+Derek Gerson                        FRA   4   714
+Diego Torres Torres                 ESP   4   714
+Diego Vaz De Almeida Longobardi     BRA   4   714
+Edoardo Berardi                     SMR   4   714
+Eduardo Furlanetto                  BRA   4   714
+Enric Sanmarti Beleta               ESP   4   714
+Ezequiel Ojeda                      ARG   4   714
+Facundo Aguirre                     ARG   4   714
+Federico Cicognani                ITA   4   714
+Federico PuÃ±ales                 URU   4   714
+Ferran Gonzalez Zamorano          ESP   4   714
+Francis Langan                    GBR   4   714
+Gabriel BiliÅ„ski                 POL   4   714
+Galo Tejeda Madero                MEX   4   714
+Gerardo Irarrazabal Alvarez       CHI   4   714
+Gianmarco Gherardi                ITA   4   714
+Gonzalo Federico Luis Lopez       ARG   4   714
+Guillermo IbaÃ±ez Delgado         ESP   4   714
+Hami Golestan                     SWE   4   714
+Hector Carlos Palacios            ARG   4   714
+Hugo Garcia Martinez              ESP   4   714
+Ignacio Gomez Bravo               ESP   4   714
+Ivan Garcia Aceituno              ESP   4   714
+Jacopo Crini                      ITA   4   714
+Jarno Giardi                      SMR   4   714
+Javier Chavez Quintana            MEX   4   714
+Jordi Casanova Bataller           ESP   4   714
+Jorge Catalan Zamorano            CHI   4   714
+Jorge Cordoba Lugo                ESP   4   714
+Jorge Sanchez Marquez             MEX   4   714
+Jose Miguel Cuadros Gomez         CHI   4   714
+Josep Fernandez Vila              ESP   4   714
+Juan Carlos Padilla               MEX   4   714
+Juandres Horbe Antunez            URU   4   714
+Julio Cervantes Rodriguez         MEX   4   714
+Khaled Megdiche                   TUN   4   714
+Leonardo Bulgarini                ITA   4   714
+Lionel Moyne                      FRA   4   714
+Lisandro Pepe                           4   714
+Manuel Aragon Herrera             ESP   4   714
+Manuel Begines Calvo              ESP   4   714
+Martin Achondo Hartard            CHI   4   714
+Mateusz Lipinski                  POL   4   714
+Matthew Thomas                          4   714
+Maximo Cornejo Gonzalez           ARG   4   714
+Michel Haddad                     BRA   4   714
+Miguel Angel Blanco Legorburu           4   714
+Nacho Andreu Aguirre              ESP   4   714
+Nicolas Mora Montenegro           CHI   4   714
+Nicolo Chiampo                    ITA   4   714
+Nojus Poska                       LTU   4   714
+Nollet Ief                        BEL   4   714
+Omar Khaled Bahrouzyan Alawadhi         4   714
+Omar Qaed                         BRN   4   714
+Omar Shamel                       EGY   4   714
+Pablo Teixeira                    BRA   4   714
+Pablo Vacarezza Kuhlmann          CHI   4   714
+Pedro Jesus Robles Rodriguez      ESP   4   714
+Pedro Kaminski                       BRA   4   714
+Pierre BonfrÃ©                       SWE   4   714
+Rikard RÃ¥Ã¥d                        SWE   4   714
+Rodrigo JimÃ©nez Felice              URU   4   714
+Ruben Alamo Cruz                     ESP   4   714
+Ruben Garcia Aguila                  ESP   4   714
+Ryosuke Gomi                         JPN   4   714
+Santiago De Abiega Chavez Peon             4   714
+Santiago Marin                       ARG   4   714
+Saverio Lancellotti                  ITA   4   714
+Shady Ashraf                         EGY   4   714
+Shinnosuke Nakamura                  JPN   4   714
+Sohrab Darafshi Ghahroudi            IRI   4   714
+Takafumi Tominaka                    JPN   4   714
+Tarek Esawy                          EGY   4   714
+Teruaki Ando                         JPN   4   714
+Vinicius Meirelles Martins           BRA   4   714
+Vinny Nahuel Di Francesco Calderon   ARG   4   714
+Vitor Meirelles Martins              BRA   4   714
+Vuk Velickovic                             4   714
+William Forcellini                   SMR   4   714
+Yassin Zanoun                        EGY   4   714
+Youssef Ben Dhiaf                    TUN   4   714
+Youssef Hamido                       EGY   4   714
+Yusuf Qaed                           BRN   4   714
+Abdelrahman Nakeeb                   EGY   3   825
+Aday Sanchez Leon                    ESP   3   825
+Agusto Barrios Bartz                 BRA   3   825
+Albert Guasch Bonilla                ESP   3   825
+Alberto Micali                       ITA   3   825
+Alberto Tosti Croce                  ITA   3   825
+Alejandro Jimenez Juanas                   3   825
+Alessandro Ferrero                   ITA   3   825
+Alessandro Formica                   ITA   3   825
+Alfonso Patacho                      GBR   3   825
+Andrea Giarrusso                     ITA   3   825
+Antonio Alamillo Alcaide             ESP   3   825
+Artem Pudovkin                             3   825
+Arturo Azocar Salinas                CHI   3   825
+Asier Cabana Martin                  ESP   3   825
+Baptiste Moura                       FRA   3   825
+Bernardo Corrochano Cid              ESP   3   825
+Bernardo Gasparin                    BRA   3   825
+Brian Cabrera                        ARG   3   825
+Cameron Dollimore                    GBR   3   825
+Carlos Miguel Pelaez Suarez          ESP   3   825
+Claudio Bru Casaseca                 ESP   3   825
+Daniel Hinojosa Arroyo               ESP   3   825
+Daniel MuÃ±oz Romero                 ESP   3   825
+Daniele Galloppa                     ITA   3   825
+David Antolin Solla            ESP   3   825
+David Leal Martinez            ESP   3   825
+Diego Alejandro Salazar        MEX   3   825
+Diogo Casa                     BRA   3   825
+Diogo Correa Rodrigues         BRA   3   825
+Domenico Cutuli                ITA   3   825
+Dominique Coene                BEL   3   825
+Edoardo Eremin                 ITA   3   825
+Edoardo Vampa                  ITA   3   825
+Edwin Gomes Costa              BRA   3   825
+Enrique Nicolas Trigo Giraud   ITA   3   825
+Flavio De Lucia                ITA   3   825
+Franco Ceretani Hegi           ESP   3   825
+Gabriel Carlos Lopes           BRA   3   825
+Gautier Boutel                 FRA   3   825
+Giorgio Saputo                 ITA   3   825
+Giovanny Avello                CHI   3   825
+Gustav Eriksson                      3   825
+Gustavo Garcia Jimenez         ESP   3   825
+Hassan Tarek Shaheen           EGY   3   825
+Hazem Beltagui                 EGY   3   825
+Javier Mesa Arenas             ESP   3   825
+Javier Rodriguez Acosta        ESP   3   825
+Jorge Burgos Luca De Tena      ESP   3   825
+Jose Antonio Crespo Sanchez    ESP   3   825
+Juan Carlos Diaz Martin              3   825
+Juan Ignacio Ojeda             ARG   3   825
+Juan Pablo Esquivel Barbosa    MEX   3   825
+Julen Lucendo Millan           ESP   3   825
+Julian Prins                   NED   3   825
+Karim Ashraf                   EGY   3   825
+Karim Beltagui                 EGY   3   825
+Karl Shafik Mouchantaf         CAN   3   825
+Karl-Johan Mattsson            SWE   3   825
+Khalil Ben Lallahom            TUN   3   825
+Lars Du Pree                   NED   3   825
+Laurent Montoisy               BEL   3   825
+Lazaro Leite                   BRA   3   825
+Leonardo Urso                  ITA   3   825
+Lionel Elian Abdala            ITA   3   825
+Lorenzo Maccarini              BRA   3   825
+Luca Carli                     ITA   3   825
+Lucas Aschwanden               SUI   3   825
+Lucas Benjamin Falco           ARG   3   825
+Lucas Jose Pronotti            BRA   3   825
+Marcos Daniel                  BRA   3   825
+Mario Gutierrez Soria          ESP   3   825
+Matheus Izkovitz               BRA   3   825
+Mohammed Al Rawahi             OMA   3   825
+Murilo Weber                   BRA   3   825
+Nicolas Borgatta                          ARG   3   825
+Ozan Cildir                               SWE   3   825
+Pablo Figueroa                            SWE   3   825
+Pedro Carlos Garcia-Consuegra gutierrez         3   825
+Pedro Jose CerdeÃ±o Alonso                ESP   3   825
+Pedro Perry                               POR   3   825
+Per Hjalmarson                            SWE   3   825
+Quentin Ayuso                             FRA   3   825
+Quintin Vos                               NED   3   825
+Rafael Motter                             BRA   3   825
+Santiago Manuel Colombo                   ARG   3   825
+Saska Huttunen                            FIN   3   825
+Selim El Aroui                            TUN   3   825
+Simon Bond                                NED   3   825
+Simon Yitbarek                            SWE   3   825
+Simone Codovini                           ITA   3   825
+Thomas Barateau                           FRA   3   825
+Till Gygax                                SUI   3   825
+Tomas Diaz Dominguez                      ESP   3   825
+Victor Saenz De Navarrete                 ESP   3   825
+Vladimir Nifontov                               3   825
+Wagdy Raslan                              EGY   3   825
+Wilco Geenen                              NED   3   825
+Willy Slaryd                              SWE   3   825
+Xander Veys                               BEL   3   825
+Youp De Kroon                             NED   3   825
+Abdul Shakoor Al Yahyaei                  OMA   2   926
+Adrian Baamonde                           ESP   2   926
+Adrian Garcia Gonzalez                    ESP   2   926
+Adrijus Sveikauskas                       LTU   2   926
+Alain Sassen                              BEL   2   926
+Alberto Cerrocchi                         ITA   2   926
+Alberto Garcia Marquez                    ESP   2   926
+Alec Witmeur                              BEL   2   926
+Alessandro Cervellati                     ITA   2   926
+Alessio Luchetti                          ITA   2   926
+Alfonso Palmisano                         ITA   2   926
+Alison Rosso                              BRA   2   926
+Alvaro Bermejo De Alamo                   ESP   2   926
+Alvaro CaÃ±asveras Boza                   ESP   2   926
+Ameen Jarrar                              JOR   2   926
+Amir Mohamad Jamshidi                     IRI   2   926
+Andre Morroni Da Silva                    BRA   2   926
+Andrea Cerlini                            ITA   2   926
+Andrea Lucchesi                           ITA   2   926
+Andres Macchiavello                       CHI   2   926
+Andres Pascual Jackson Cevasco                  2   926
+Anton Bernatskiy                                2   926
+Antonio Borja Mulet                       ESP   2   926
+Antonio Garzon Larequi                    ESP   2   926
+Antonio Terzo                   ITA   2   926
+Arnaud Meessen                  BEL   2   926
+Arthur Rodrigues Silveira       BRA   2   926
+Arthur Vasarevic                CRO   2   926
+Axel William Guevara            ARG   2   926
+Benoit Theard                   FRA   2   926
+Brian Cuypers                   BEL   2   926
+Bruno Ferreira                  BRA   2   926
+Charlie Koper                   NED   2   926
+Craig Pickering                       2   926
+Daniel Machuca Romero           ESP   2   926
+Daniel Pashayan                       2   926
+Daniel Usher                          2   926
+Dario Wyler                     SUI   2   926
+David Villalta Aguilar          ESP   2   926
+Deniz Inac                      TUR   2   926
+Diego Cuccioli                  ARG   2   926
+Diego Garcia Brito              ESP   2   926
+Diego Rosell Garcia             ESP   2   926
+Dob Engstrom                    SWE   2   926
+Dominik Bierent                 AUT   2   926
+Dylan Sessagesimi               SUI   2   926
+Edoardo Bufo                    ITA   2   926
+Edoardo Zecchinelli             ITA   2   926
+Emanuele Fanti                  ITA   2   926
+Enrico Wellenfeld                     2   926
+Enzo Osorio Caballero           CHI   2   926
+Faisal Alrebdi                  KSA   2   926
+Faustino Arino Yela             ESP   2   926
+Felipe Rios Frese               CHI   2   926
+Ferhat Korkmaz                  TUR   2   926
+Fernando Agustin Vega           ARG   2   926
+Fernando Cebrian Groba                2   926
+Ferran Bueno Gomez              ESP   2   926
+Filippo Wellenfeld                    2   926
+Flamu Ahmeti                    KOS   2   926
+Francesco Boglione                    2   926
+Francisco Jurado Sosa           ESP   2   926
+Gabriel Agustin Marchesini      ARG   2   926
+Gaston Diaz                     ARG   2   926
+George Weller                   GBR   2   926
+German Garcia Marin             ESP   2   926
+Germano Giacalone               ITA   2   926
+Gezim Gashi                     KOS   2   926
+Giorgio Ranieri                 ITA   2   926
+Giovanni Bos                    NED   2   926
+Guilherme Cattani               BRA   2   926
+Guillermo Molina garcÃ-a-Muro   ESP   2   926
+Guillermo Vivas Lobato          ESP   2   926
+Gustavo Lavandoski              BRA   2   926
+Hassan Sabry                       EGY   2   926
+Hayato Nakayashiki                 JPN   2   926
+Hikaru Yokoyama                    JPN   2   926
+Hirokazu Kitao                     JPN   2   926
+Hugo Lazcano                       MEX   2   926
+Ignacio Cornejo Rivera             CHI   2   926
+Ignacio Gonzalez Torres            ESP   2   926
+Iker Rodriguez Sanchez             ESP   2   926
+InÃ¡cio IrumÃ© Da Costa            URU   2   926
+Isidoro Salamanca Fernandez        ESP   2   926
+Ivan Garri                         ARG   2   926
+Jarron Morris                            2   926
+Jasper Smit                        NED   2   926
+Jeremy Gala                        BEL   2   926
+Jerome Morance                           2   926
+Joao Paulo Meirelles Martins       BRA   2   926
+Jonas Ostergaard Store             NOR   2   926
+Jonathan Demir Rios                ARG   2   926
+Jose Benitez                       ESP   2   926
+Jose Manuel Arcas Fernandez        ESP   2   926
+Jose Mongelos                      PAR   2   926
+JoÃ£o Victor Schenkel Steiner      BRA   2   926
+Juan Antonio Sanchez Rodriguez     ESP   2   926
+Juan Pablo De Paiz Ferrer          ESP   2   926
+Juan Pedro Ramirez Ruiz            ESP   2   926
+Kai Groen                          NED   2   926
+Kai HernÃ¡ndez Richardson          ESP   2   926
+Keisuke Tomoda                     JPN   2   926
+Kenny Kallstrom                    SWE   2   926
+Khalid Al Nabhani                  OMA   2   926
+Kilian Jordan                      SUI   2   926
+Kirk Francis Jackson                     2   926
+Kohei Hisatome                     JPN   2   926
+Kohei Ishikawa                     JPN   2   926
+Kohei Saito                        JPN   2   926
+Kristopher Sotiriu                 AUT   2   926
+Kyle Burtt                               2   926
+Lautaro Angelini                   ARG   2   926
+Leon Aurelius Taira Hoy            JPN   2   926
+Leopoldo O. Amaral Dos Santos J.   BRA   2   926
+Louis De Rouck                     BEL   2   926
+Louis Guibert                      BEL   2   926
+LoÃ¯c Le Panse Fernandez           FRA   2   926
+Lucas Alegre                       ARG   2   926
+Ludovic Hutzemakers                FRA   2   926
+Luis A. Ambrosio Becerra           BRA   2   926
+Luis Antonio Malacara Payan        MEX   2   926
+Luis Augusto Neves Guerra          BRA   2   926
+Luis Otavio Pires                  BRA   2   926
+Luis Pablo Pechir Siller           MEX   2   926
+Luke Morland                           2   926
+Maher Hachem                     SEN   2   926
+Manatsu Arakawa                  JPN   2   926
+Manuel MuÃ±oz Lozano             ESP   2   926
+Marcel Bogaart                   NED   2   926
+Marcelo Nicoloso Machado         BRA   2   926
+Marcelo Rotondo                  BRA   2   926
+Marco Gradellini                 ITA   2   926
+Marijn Prins                     NED   2   926
+Mario Alejandro Bustos           ARG   2   926
+Mario Lozano                     ESP   2   926
+Martin Luis Cevasco                    2   926
+Martin Van Der Meerschen         BEL   2   926
+Matheus F. Dos Santos            BRA   2   926
+Mathias Porflit Fuentes          CHI   2   926
+Matias Baez                      ARG   2   926
+Matias Tenconi                   ARG   2   926
+Mats Groen                       NED   2   926
+Matteo Platania                  ITA   2   926
+Matteo Rosignana                 ITA   2   926
+Mauricio Fosado                  MEX   2   926
+Maxime Forcin                    FRA   2   926
+Maxime Joris                     FRA   2   926
+Maziar Yavari                    IRI   2   926
+Michael Geraghty                 NOR   2   926
+Miquel Ayats Vidal               ESP   2   926
+Mohamed Al Janahi                UAE   2   926
+Mohamed Moussa                   EGY   2   926
+Mohammad Alterki                 KUW   2   926
+Moritz Felber                    AUT   2   926
+Nasa Hatakeyama                  JPN   2   926
+Nathan Lambrechts                BEL   2   926
+Nicholas Hatchett                GBR   2   926
+Nicola Giuliani                  ITA   2   926
+Okay Koc                         TUR   2   926
+Omar Ezzat                       EGY   2   926
+Pablo Andres Toro Loaiza         CHI   2   926
+Pablo Diaz Del Guante Valentin   ESP   2   926
+Pablo Maximiliano Pesce Zumbo    CHI   2   926
+Pablo Nicolas Gramajo Pignatta   URU   2   926
+Pablo Sanchez Vicente            ESP   2   926
+Parham Kian                      TUR   2   926
+Philip Orloff                    SUI   2   926
+Rafael Morroni Da Silva          BRA   2   926
+Raul Medina Lopez                      2   926
+Riadh Kallel                     TUN   2   926
+Richard Brooks                   GBR   2   926
+Robert Daley                           2   926
+Rodrigo Lopez Santin             ESP   2   926
+Rodrigo Senattore Baumbach       URU   2   926
+Ruben Garcia Negrin                     ESP   2    926
+Rui Varela                              POR   2    926
+Sacha Rodriguez-Vasquez                 BEL   2    926
+Salim Al-Harthi                         OMA   2    926
+Salman Alshahrani                       KSA   2    926
+Santiago Agudo Sanz                     ESP   2    926
+Sebastian Zuleta                        CHI   2    926
+Selahattin Yazar                        TUR   2    926
+Semal Robin                             BEL   2    926
+Sergio Borrero Fernandez De La Puente   ESP   2    926
+Sergio Moran Prieto                     ESP   2    926
+Simone Cerfogli                         ITA   2    926
+Sina Kian                               TUR   2    926
+Tanguy Montoisy                         BEL   2    926
+Tarik Ozkan                             TUR   2    926
+Taylor James Smith                            2    926
+Thiago Krames                           BRA   2    926
+Till Brunner                            SUI   2    926
+Valentin Wenger                         SUI   2    926
+Vasco Pascoal                           POR   2    926
+Weyers Meintjes                               2    926
+Xander De Wever                         BEL   2    926
+Yangmin Fu                              CHN   2    926
+Youdai Matsuo                           JPN   2    926
+Zach Itzstein                                 2    926
+Abdullah Alshamarri                     QAT   1   1125
+Abdullelah Alqhtani                     KSA   1   1125
+Abdulrahman Alhabeeb                    KSA   1   1125
+Abdulrahman Aljebreen                   KSA   1   1125
+Abel Bourquin                           ARG   1   1125
+Adam Svensson                           SWE   1   1125
+Adrian Gerardo Daus                     ARG   1   1125
+Adriel Keogh                                  1   1125
+Agris Kolomicevs                        LAT   1   1125
+Agustin Anil                            ARG   1   1125
+Agustin Fernandez Molinero              ESP   1   1125
+Ahmad Butt                              GBR   1   1125
+Ahmad Subhi Aqel                        JOR   1   1125
+Ahmed Al Shaqsi                         OMA   1   1125
+Airam Quintero Rodriguez                ESP   1   1125
+Aitor Gallardon Fernandez               ESP   1   1125
+Albert Garcia Costa                     ESP   1   1125
+Alberto Marquina Espinosa               ESP   1   1125
+Alberto Nieri                           ITA   1   1125
+Alberto Perez Bernabeu                  ESP   1   1125
+Alberto Saez-Royuela ariza              ESP   1   1125
+Alberto Simon Garcia                    ESP   1   1125
+Aleix Fuertes                           ESP   1   1125
+Alejandro Calvo Perez                   ESP   1   1125
+Alejandro Galvan Rodriguez              ESP   1   1125
+Alejandro Gastaca Sainz        ESP   1   1125
+Alejandro Lopez Trigo          ESP   1   1125
+Alejandro Marcelo Dionisio           1   1125
+Alejandro Zaragoza Madrid      ESP   1   1125
+Alessandro Caccia              ITA   1   1125
+Alessandro Gullotta            ITA   1   1125
+Alessandro Platania            ITA   1   1125
+Alessandro Volpin              ITA   1   1125
+Alessio Piccioli               ITA   1   1125
+Alex Rodriguez Tuch            ESP   1   1125
+Alexander Loughlan             GBR   1   1125
+Alexander Martynov             RUS   1   1125
+Alexis Dutour                  FRA   1   1125
+Alfons Lopez                   SWE   1   1125
+Alfonso Bellavia               ITA   1   1125
+Alfonso Diaz Ponce             ESP   1   1125
+Ali Al Kindi                   OMA   1   1125
+Ali Alsaadi                    QAT   1   1125
+Ali Jaafar                     OMA   1   1125
+Ali Zuhair                     OMA   1   1125
+Alvaro Gil Jaramillo           ESP   1   1125
+Alvaro Morales Garcia          ESP   1   1125
+Alvaro Perez Perez             ESP   1   1125
+Amr Abdou                      EGY   1   1125
+Andre Biro                     HUN   1   1125
+Andreas Midell                 SWE   1   1125
+Andrei Huber                   BRA   1   1125
+Andres Izurieta                CHI   1   1125
+Andrew Scanlan                       1   1125
+Angel Torres                   CHI   1   1125
+Anton Bettink                  NZL   1   1125
+Antonello Mottola              ITA   1   1125
+Antonio Albuquerque            BRA   1   1125
+Antonio Atencia Urbaneja       ESP   1   1125
+Antonio Daviu Cofre            CHI   1   1125
+Antonis Asimakopoulos          GRE   1   1125
+Aparicio Etcheberry Carrasco   URU   1   1125
+Armando BretÃ³n                      1   1125
+Arnau Candelo Casas            ESP   1   1125
+Arthur De Greef                BEL   1   1125
+Arthur Macagnan Spengler       BRA   1   1125
+Asao Igarashi                  JPN   1   1125
+Ashley Radford Sutton                1   1125
+Aymar Megia Muncharaz          ESP   1   1125
+Blake Anthony Brookman               1   1125
+Blazo Nikola Djurovic                1   1125
+Bodhi De Muinck                BEL   1   1125
+Boran Poljancic                CRO   1   1125
+Borja Herrero Garcia Robledo         1   1125
+Bradley Sewell                       1   1125
+Bram Kevelaerts                    BEL   1   1125
+Brent Verrydt                      BEL   1   1125
+Brian Ortiz                        ARG   1   1125
+Brijs Stijn                        BEL   1   1125
+Bruno Grubba Alonso                BRA   1   1125
+Carlos Alfredo Galvez Espinoza           1   1125
+Carlos Flores PeÃ±ate              ESP   1   1125
+Carlos Melian                      ESP   1   1125
+Carlos Peral Lopez                 ESP   1   1125
+Carlos Romero Lopez                ESP   1   1125
+Cesare Favara                      ITA   1   1125
+Christian Exequiel Ruiz            ARG   1   1125
+Claudio Falabella                  ITA   1   1125
+Conrado Irume Da Costa             URU   1   1125
+Cooper Allen David Levey                 1   1125
+Craig De Silva                     GBR   1   1125
+Craig O'Shannessy                        1   1125
+Cristian Merubia Ojeda             CHI   1   1125
+Cristiano Davoli                   ITA   1   1125
+Cristofer Gutierrez Perez                1   1125
+Damian Agustin Vega Brizuela       ARG   1   1125
+Damien Hough                             1   1125
+Damien Hugues Marie Desurmont            1   1125
+Daniel Bristow                     GBR   1   1125
+Daniel Dias                        BRA   1   1125
+Daniel Diaz Weisser                CHI   1   1125
+Daniel Lirio Traverso              ESP   1   1125
+Daniel Perdomo Marrero             ESP   1   1125
+Daniel Romero                      URU   1   1125
+Daniel Sicca Borin                 BRA   1   1125
+Daniele Perticarini                ESP   1   1125
+David Hough                              1   1125
+David Macia Dominguez              ESP   1   1125
+David Melendez Sanchez             ESP   1   1125
+David Quiros Peiro                 ESP   1   1125
+David Torregrosa Baena             ESP   1   1125
+David Verde                        ITA   1   1125
+Dennis Angello Vargas Echeverry          1   1125
+Diego Achondo Hartard              CHI   1   1125
+Diego Alberto Lozano Medina        ESP   1   1125
+Diego Humberto Gonzalez Castillo         1   1125
+Diego Jimenez Sanchis              ESP   1   1125
+Diego Le Gal Perez                 ESP   1   1125
+Diego Lopez De Mota IbaÃ±ez        ESP   1   1125
+Diego Nieto Sanchez                ESP   1   1125
+Diego Sebastian Aguado             ESP   1   1125
+Diib Peruzzi Hammad                BRA   1   1125
+Diogo Jesus                        POR   1   1125
+Djonatan Rechembak                 BRA   1   1125
+Dominic Bechard                          1   1125
+Dovydas Å abÅ«nas                 LTU   1   1125
+Edgar Barria                      CHI   1   1125
+Edgar Perez Garcia                ESP   1   1125
+Edoardo Venzi                     ITA   1   1125
+Eduardo Barbosa Sessim Da Silva   BRA   1   1125
+Eduardo Herrero Del Riego         ESP   1   1125
+Eduardo Justo Neutsig             URU   1   1125
+Elias Luisoni                     SUI   1   1125
+Elias Swaans                      BEL   1   1125
+Emanuel Cura                      ARG   1   1125
+Emilio Rodriguez-Solis segura     ESP   1   1125
+Ennio Gallo                       ITA   1   1125
+Enrique Casado De Ãvila           ESP   1   1125
+Enrique Martos Lopez              ESP   1   1125
+Eric Lund                         SWE   1   1125
+Erik Olsson                       SWE   1   1125
+Fabiano Luiz De Souza             BRA   1   1125
+Fabio Langer Pereira              BRA   1   1125
+Fabrizio Di Marino                ITA   1   1125
+Fahad Alsubaie                    KSA   1   1125
+Farid Saleh                       EGY   1   1125
+Felipe Jose Villaca               BRA   1   1125
+Fernando Diaz Barrachina          ESP   1   1125
+Fernando Gustavo Tapia Calle      CHI   1   1125
+Fernando Moreno                   ARG   1   1125
+Filip Olech                       POL   1   1125
+Filip Svensson                    SWE   1   1125
+Filippo Catellani                 ITA   1   1125
+Filippo Negro                     ITA   1   1125
+Florian Vandelanotte              BEL   1   1125
+Fran Garcia Garcia                ESP   1   1125
+Francesco Offidani                ITA   1   1125
+Francisco Cabeza Balenzategui     ESP   1   1125
+Francisco Grosso                  ARG   1   1125
+Francisco Javier Encina Morales   CHI   1   1125
+Francisco Jose Tobaria Castro     ESP   1   1125
+Franco Caputto                    ARG   1   1125
+Fredric HÃ¤ggman                  SWE   1   1125
+Gael Olivier Courbard                   1   1125
+Gerard Gimeno Centelles           ESP   1   1125
+Gerardo Cornejo Quintana          CHI   1   1125
+Giacomo Mantovani                 ITA   1   1125
+Giacomo Vacalebre                 ITA   1   1125
+Giammarco Calvo                   ITA   1   1125
+Gianluca Bazzica                        1   1125
+Gianluca Reynafe                  ARG   1   1125
+Giuseppe Catalano                 ITA   1   1125
+Gonzalo Bravo                     CHI   1   1125
+Gonzalo Martin Guevara            ARG   1   1125
+Gustav Berlin                     SWE   1   1125
+Guy Stoner                                  1   1125
+Hampus Olsson                         SWE   1   1125
+Hani Mohamed                          EGY   1   1125
+Hassan Kandil                         EGY   1   1125
+Hector Vazquez Lopez                        1   1125
+Henrique Marsiglia                    BRA   1   1125
+Hicham Ahmadoun                       BEL   1   1125
+Hiroshi Sado                          JPN   1   1125
+Hugo Jorquera Santos                  ESP   1   1125
+Hugo Portillo                         ESP   1   1125
+Hussain Ali Redha                     OMA   1   1125
+Ignacio Tato Cantalapiedra            ESP   1   1125
+Igor Souto                            BRA   1   1125
+Imran Danill Van Dijk                 NED   1   1125
+Ionian Antonelly Carballo Hernandez   MEX   1   1125
+Islam Ghunaim                         BRN   1   1125
+Ivan Arrondo Perez                    ESP   1   1125
+Ivan Dafonte Navas                    ESP   1   1125
+Jacopo Eugenio Accatino               ITA   1   1125
+Jamie Eccleton                        GBR   1   1125
+Jan Cano Felix                        ESP   1   1125
+Jared Robinson                        RSA   1   1125
+Jason Alexander Crosb Wright                1   1125
+Javier Aviles Droguett                CHI   1   1125
+Javier Cuadra                         CHI   1   1125
+Javier MuÃ±oz Ruiz                    ESP   1   1125
+Javier Navas                                1   1125
+Javier NuÃ±ez Lopez                   ESP   1   1125
+Javier Portellano                     ESP   1   1125
+Jeremy Garcia                         FRA   1   1125
+Jeronimo Jose Campora                 ARG   1   1125
+Jimmy Barbieux                        BEL   1   1125
+Jo Okumura                            JPN   1   1125
+Joan Romera BarcelÃ³                  ESP   1   1125
+Joao Maria Caiano                     POR   1   1125
+Joao Pedro Alcantara                  BRA   1   1125
+Joaquin Nicolas Escalona Linz         CHI   1   1125
+Joe BergstrÃ¶m                        SWE   1   1125
+Jonas Vanhauwe                        BEL   1   1125
+Jonathan De Dios Martinez Morillo     ESP   1   1125
+Jorge Antonio Gonzalez Torres         ESP   1   1125
+Jorge Etcheberry Carrasco             URU   1   1125
+Jorge Hernandez Negrin                ESP   1   1125
+Jorge Martinez Sanchez                ESP   1   1125
+Jorge Morales Rocino                  ESP   1   1125
+Jorge Rangel                          MEX   1   1125
+Joris Evens                           BEL   1   1125
+Jorrit Hazebroek                      NED   1   1125
+Jose Antonio Arcos                    ESP   1   1125
+Jose Daniel Reina Revuelta            ESP   1   1125
+Jose Luis Domingo Valdivia Ortiz         1   1125
+Jose Luis Ojeda                    MEX   1   1125
+Jose Manuel Lecaros Saavedra       CHI   1   1125
+Jose Maria Gomez                   ESP   1   1125
+Jose Mena Macias                   ESP   1   1125
+Jose Miguel Montes Diaz            CHI   1   1125
+JoÃ£o Vitor Paiva Mendes           BRA   1   1125
+Juan Carlos Gama Gonzalez          ESP   1   1125
+Juan Figueroa Ayala                ESP   1   1125
+Juan Manuel Barros Reyes           MEX   1   1125
+Juan Manuel Garcia Aldabe                1   1125
+Juan Maria Ramirez Carrasco        ESP   1   1125
+Juan Pablo Echenique O'Shea              1   1125
+Juan Pereiro Gonzalez              ESP   1   1125
+Kaoru Nonomura                     JPN   1   1125
+Kazuhiro Somemiya                  JPN   1   1125
+Kilian Nuck                        SUI   1   1125
+Kosuke Nishimura                   JPN   1   1125
+Lasse Sundell                      NOR   1   1125
+Leonardo Abbate                    ITA   1   1125
+Leonardo Becker                    BRA   1   1125
+Leonardo Carvalho Alves            BRA   1   1125
+Leonardo Tailor                    BRA   1   1125
+Linas PlanÄiÅ«nas                  LTU   1   1125
+Linus Balder                       SWE   1   1125
+Linus Isaksson                     SWE   1   1125
+Lorenzo Di Salvo                   ITA   1   1125
+Lu Quoc Linh                             1   1125
+Luca Bengoa                              1   1125
+Lucas Ignacio Dumas                ARG   1   1125
+Luis Antonio Becerra               CHI   1   1125
+Luka Vranesevic                          1   1125
+Lukas AraÃºjo GoÃ±i                URU   1   1125
+Makoto Takanashi                   JPN   1   1125
+Manuel Ortin                             1   1125
+Manuel Perez Vazquez               ESP   1   1125
+Marcelo Kieffer Luiz               BRA   1   1125
+Marcio Coimbra                     URU   1   1125
+Marcos Gonzalez Gil                ESP   1   1125
+Marijn Peeters                     BEL   1   1125
+Mario Rodriguez Garcia             ESP   1   1125
+Mario Tanco Pascual                ESP   1   1125
+Marius MieÅ¾is                     LTU   1   1125
+Markus Krocker                     AUT   1   1125
+Martijn Van Haasteren              NED   1   1125
+Martin Vandevijvere                BEL   1   1125
+Marwan Almulhim                    KSA   1   1125
+Mateo Conte Gonzalez               ARG   1   1125
+Matias Edwards Duran               CHI   1   1125
+Matias Gonzalez                    CHI   1   1125
+Matias Lucero Matiello                  ARG   1   1125
+Matteo Baldi                            ITA   1   1125
+Matthew Barrelle                              1   1125
+Mattia Guerra                           ITA   1   1125
+Mattia Nervegna                         ITA   1   1125
+Mattia Scaglioni                        ITA   1   1125
+Maxime De Roose                         BEL   1   1125
+Mena Atef Naguib Abdalla Fekry                1   1125
+Merlijn De Krom                         NED   1   1125
+Michal Brzuszkiewicz                    AUT   1   1125
+Mickey Guerin                           BEL   1   1125
+Miguel Bernal Mohamed                   ESP   1   1125
+Miguel Gascon Carrascosa                ESP   1   1125
+Miguel Salgado                          MEX   1   1125
+Miguel Tato Ruiz                        ESP   1   1125
+Mirko Paoletti                          ITA   1   1125
+Mitsuhiro Mori                          JPN   1   1125
+Mohammed Al Subaie                      KSA   1   1125
+Mohammed Rasheed                        EGY   1   1125
+Nao Kamakari                            JPN   1   1125
+Niall McGann                                  1   1125
+Nicola Talamonti                        ITA   1   1125
+Nicolas Cordoba                         ARG   1   1125
+Nicolas Iraira GuzmÃ¡n                  CHI   1   1125
+Nicolas Lujan Torres                    CHI   1   1125
+Nicolas PeÃ±a Ruiz                      ESP   1   1125
+Nicolas Rouanet                         FRA   1   1125
+Nicolas Seminck                         BEL   1   1125
+Nicolas Trancart                        FRA   1   1125
+Nicolo Vezzoni                          ITA   1   1125
+Nikitas Sampaio Kokorelis                     1   1125
+Nobuhiko Murakawa                       JPN   1   1125
+Nobuto Yanagiya                         JPN   1   1125
+Noe Sanchez Del Viejo                   ESP   1   1125
+Nuno Goncalo Videira De Jesus Correia         1   1125
+Oliver Szakacs                          HUN   1   1125
+Omar Abousharkh                               1   1125
+Omar Mohamed Mohamed                    BRN   1   1125
+Oscar Dieguez Lastanao                        1   1125
+Oscar Dominguez Monte De Oca            ESP   1   1125
+Oskaras Kalinauskas                     LTU   1   1125
+Pablo Andres Rojas Tapia                      1   1125
+Pablo Crespo Bernal                     ESP   1   1125
+Pablo Felipe Pinto Castillo             CHI   1   1125
+Pablo Javier Sevilla Molina             ESP   1   1125
+Pablo Leonardo Suarez                   ARG   1   1125
+Pablo Manuel Diaz Weisser               CHI   1   1125
+Pablo Reina Ambel                       ESP   1   1125
+Pablo Simon Garcia                      ESP   1   1125
+Pablo Villaroya Lazaro                  ESP   1   1125
+Paolo Fasciana                 ITA   1   1125
+Patricio Opazo Ariaa           CHI   1   1125
+Patrick Vilaprino              SUI   1   1125
+Patrik Naef                    SUI   1   1125
+Paul Michael Stratton                1   1125
+Paulo Bravo                    CHI   1   1125
+Pedro Arce LatapÃ¬             MEX   1   1125
+Pedro Henrique Bogo            BRA   1   1125
+Pedro Jaime Borja Mulet        ESP   1   1125
+Pedro Uribe Quintero           COL   1   1125
+Petar Jovic                          1   1125
+Philip Dolfyn                  BEL   1   1125
+Philipp Holz                   GER   1   1125
+Philipp Ringer                 AUT   1   1125
+Pontus HÃ¥kanson               SWE   1   1125
+Pontus Lidholt                 SWE   1   1125
+Rafael Parras Aguera           ESP   1   1125
+Rafael Vega Otaolaurruchi      ESP   1   1125
+Raffaele Marino                ITA   1   1125
+Rakan Alshahrani               KSA   1   1125
+Ramon Moreno Melendez          ESP   1   1125
+Ramon Rodriguez-Solis segura   ESP   1   1125
+Raul Jerez Miranda             ESP   1   1125
+Rdolfo Schwarz                 BRA   1   1125
+Ren Yasuda                     JPN   1   1125
+Riccardo Brasili               ITA   1   1125
+Riccardo Guidotti              ITA   1   1125
+Rickard Kjellberg              SWE   1   1125
+Robert Maxwell Gaylard               1   1125
+Roberto Vecchi                 ITA   1   1125
+Rodrigo Castro                 MEX   1   1125
+Rodrigo Pastene                CHI   1   1125
+Ruben Sanchez Sanchez          ESP   1   1125
+Ryan Joseph Bougie                   1   1125
+Ryosuke Kizawa                 JPN   1   1125
+Salvador Atencia Basilio       ESP   1   1125
+Sam Macneil                    GBR   1   1125
+Samuel Rodriguez               PAR   1   1125
+Samuele Mariani                ITA   1   1125
+Sanchez Norman                 FRA   1   1125
+Sandy Farquharson              GBR   1   1125
+Santiago Palomares Anaya       ESP   1   1125
+Saulo Torres Gonzalez          ESP   1   1125
+Sebastian Burgos               CHI   1   1125
+Sebastian Migliaro Romagnoli   CHI   1   1125
+Sergio Beracierto Gil          ESP   1   1125
+Sergio Cornejo Valenzuela      CHI   1   1125
+Sergio Gonzalez Martinez       ESP   1   1125
+Sergio Ivan Perez Vicente      ESP   1   1125
+Sergio Martinez Sanchez        ESP   1   1125
+Shoki Fukui                          JPN   1   1125
+Shota Kobayashi                      JPN   1   1125
+Silvio Camarda                       ITA   1   1125
+Simone Sciacca                       ITA   1   1125
+Simone Vaccari                       ITA   1   1125
+Staffan FalkenstrÃ¶m                 SWE   1   1125
+Stanislas Georges Michel                   1   1125
+Tadas MiseviÄius                     LTU   1   1125
+Tameem Almohammed                    QAT   1   1125
+Tatsuya Ohara                        JPN   1   1125
+Theo Peter                           BRA   1   1125
+Theodore Garton                      GBR   1   1125
+Thomas Ackerknecht Del Pozo          CHI   1   1125
+Thomas Deschamps                     BEL   1   1125
+Thomas Panken                        NED   1   1125
+Tibo De Vylder                       BEL   1   1125
+Titas Mikelevicius                   LTU   1   1125
+Tom Farquharson                      GBR   1   1125
+Tomas Alaimo                         ARG   1   1125
+Tomas Dos Santos Nunes               POR   1   1125
+Tomas Roldan HincapiÃ©               COL   1   1125
+Tomislav Hadzic                      CRO   1   1125
+Tommaso Giachetti                    ITA   1   1125
+Tomoaki Murasawa                     JPN   1   1125
+Tomoyuki Atsuta                      JPN   1   1125
+Toriton Uemura                       JPN   1   1125
+Tsubasa Kato                         JPN   1   1125
+Tygho Schoonus                       NED   1   1125
+Tymo Berger                          NED   1   1125
+Unai Gallardon Fernandez             ESP   1   1125
+Valdemar Gelinder                    SWE   1   1125
+Vandevelde Milan                     BEL   1   1125
+Vicente Jofre Venegas                CHI   1   1125
+Vicente Marcelo Hernandez Martinez   CHI   1   1125
+Victor Gasca Romero                  ESP   1   1125
+Vinicius Dos Santos Borges           BRA   1   1125
+William Rota                         ITA   1   1125
+Wouter Vosters                       BEL   1   1125
+Xavier Planas Willis                 ESP   1   1125
+Yahya Al Lawati                      OMA   1   1125
+Yeray Vazquez Mateos                 ESP   1   1125
+Yousif Ghunaim                       BRN   1   1125
+Yusuke Okubo                         JPN   1   1125
+Yuto Suzuki                          JPN   1   1125
+Zsombor Schmidt-Bohn                 HUN   1   1125
+Å½ilvinas Mickus                     LTU   1   1125
+Aaron PicÃ³ Ortega                   ESP   0   1546
+Abdalla Erfan                        EGY   0   1546
+Abduallah Al Werdani                 ESP   0   1546
+Abdularhaman Alawadhi                KUW   0   1546
+Abdulaziz Alawadhi                0   1546
+Abdulaziz Albakri           QAT   0   1546
+Abdulaziz Alfares           KSA   0   1546
+Abdulla Ahmed Almoaden      QAT   0   1546
+Abdulla Al Mahmoud          QAT   0   1546
+Abdulla Aladsani            QAT   0   1546
+Abdulla Aldelaimi           QAT   0   1546
+Abdulla Almoathen           QAT   0   1546
+Abdulla Alraeesi            QAT   0   1546
+Abdulla Alshaabi            QAT   0   1546
+Abdulla Kafood                    0   1546
+Abdullah Alfaraj            KSA   0   1546
+Abdulrahman Al Janahi       QAT   0   1546
+Abdulrahman Alshaabi        QAT   0   1546
+Abraham Marchena Canovas    ESP   0   1546
+Adel Alhashmi               QAT   0   1546
+Adel Mazen                  EGY   0   1546
+Adham Amr                   EGY   0   1546
+Adham Elzarka               EGY   0   1546
+Adham Salem                 EGY   0   1546
+Adria Sargatal Heras        ESP   0   1546
+Adrian Allemandi            ARG   0   1546
+Adrian Arenas Caralps       ESP   0   1546
+Adrian Corona Roldan        ESP   0   1546
+Adrian M. Perez Hobous      PAR   0   1546
+Adrian MaÃ±anas Capel       ESP   0   1546
+Adrian Mendez Vives         ESP   0   1546
+Adriano Sammatrice          ESP   0   1546
+Agostino Di Pisa            ITA   0   1546
+Agostino Mugnos             ITA   0   1546
+Agustin Antonio Aranda      ESP   0   1546
+Agustin Corsi               URU   0   1546
+Agustin De Miguel Nicolau   ESP   0   1546
+Agustin Ezequiel Ruiz             0   1546
+Agustin I. Collosso               0   1546
+Agustin Medina              CHI   0   1546
+Ahmad AlMulki               SYR   0   1546
+Ahmad Almohammadi           QAT   0   1546
+Ahmad Alrabea               KUW   0   1546
+Ahmad Alsahouty             QAT   0   1546
+Ahmed Abd El Hameed Aglan   EGY   0   1546
+Ahmed Al Ariki              EGY   0   1546
+Ahmed Ariki                 EGY   0   1546
+Ahmed Bannis                EGY   0   1546
+Ahmed Ehad                  EGY   0   1546
+Ahmed Ezzo                  EGY   0   1546
+Ahmed Ghatwary              EGY   0   1546
+Ahmed Hossam                EGY   0   1546
+Ahmed Negm                  EGY   0   1546
+Aidas Akcijonaitis          LTU   0   1546
+Aimar Diaz RodrÃ-guez            ESP   0   1546
+Aimar GoÃ±i Lacabe                     0   1546
+Airam Diaz Ruiz                  ESP   0   1546
+Aitor Espinal Rey                ESP   0   1546
+Aitor Sanchez Garcia             ESP   0   1546
+Albert Porta Cabezali            ESP   0   1546
+Alberto Amador Castellano              0   1546
+Alberto Boix MollÃ               ESP   0   1546
+Alberto Bressan                        0   1546
+Alberto Castoldi                 ITA   0   1546
+Alberto IbaÃ±ez Fernandez        ESP   0   1546
+Alberto Sese IbaÃ±ez             ESP   0   1546
+Alberto Sibona                   ITA   0   1546
+Aleix Pozo Rius                  ESP   0   1546
+Alejandro Amador Fleitas         ESP   0   1546
+Alejandro Bretones Bermejo       ESP   0   1546
+Alejandro Corizzo                ECU   0   1546
+Alejandro Del Valle              CHI   0   1546
+Alejandro Diaz EstupiÃ±an        ESP   0   1546
+Alejandro Diaz Ponce             ESP   0   1546
+Alejandro Escuadra Rinaldi             0   1546
+Alejandro Garayo Lana            ESP   0   1546
+Alejandro Garcia Recio           ESP   0   1546
+Alejandro Garcia-Plata bermejo   ESP   0   1546
+Alejandro Gomez                        0   1546
+Alejandro Gonzalez Contreras     ESP   0   1546
+Alejandro Gonzalez Perez         ESP   0   1546
+Alejandro Grilo Acosta           ESP   0   1546
+Alejandro Hernandez Rueda        ESP   0   1546
+Alejandro Mendez                 USA   0   1546
+Alejandro Molina Fernandez       ESP   0   1546
+Alejandro Novillo                ESP   0   1546
+Alejandro Omar                   ARG   0   1546
+Alejandro Oton Gonzalez          ESP   0   1546
+Alejandro PatiÃ±o Galindo        ESP   0   1546
+Alejandro Puertolas Robles       ESP   0   1546
+Alejandro Ramillete              ESP   0   1546
+Alejandro Ramillete Segovia      ESP   0   1546
+Alejandro Reguant Bicardi        ESP   0   1546
+Alejandro Rodriguez Perez        ESP   0   1546
+Alejandro Roude                  ARG   0   1546
+Alejandro Sosa Hernandez         MEX   0   1546
+Alejo Gimenez                    ARG   0   1546
+Alejo Segu                       URU   0   1546
+Alen CsogÃ¶r                     HUN   0   1546
+Alensio Serjani                  ALB   0   1546
+Alessandro Agrusti               ITA   0   1546
+Alessandro Ascione               ITA   0   1546
+Alessandro Ciappa                ITA   0   1546
+Alessandro Cimino                ITA   0   1546
+Alessandro Felippa Stein         BRA   0   1546
+Alessandro Fortuna               ITA   0   1546
+Alessandro Pescetti              ITA   0   1546
+Alessio Bandiera                 ITA   0   1546
+Alessio Bresciani                ITA   0   1546
+Alessio Tramontin                ITA   0   1546
+Alex Porflit Fuentes             CHI   0   1546
+Alex Romero                      ESP   0   1546
+Alex Starocelsky                 CHI   0   1546
+Alexander Mendez-Vigo chillida   ESP   0   1546
+Alexandre Demaria                      0   1546
+Alexandre Perilhon               FRA   0   1546
+Alexandru Rosca                  ROU   0   1546
+Alexis Carlos Desormaux          MEX   0   1546
+Alexis Coulombeau                FRA   0   1546
+Alexis Le Du                     FRA   0   1546
+Alexis Zecoff                    PAR   0   1546
+Alfonso Cristobal Gonzalez       ESP   0   1546
+Alfonso Fezendeiro                     0   1546
+Alfonso Javier Raya Toro         ESP   0   1546
+Alfonso Martinez Salmeron        ESP   0   1546
+Alfredo Di Paolo                 ITA   0   1546
+Alfredo Marchese Iezza           ITA   0   1546
+Ali Dawani                       BRN   0   1546
+Ali El Sahn                      EGY   0   1546
+Ali Khaled A.hgaffaiz            EGY   0   1546
+Allen Botic                      SWE   0   1546
+Alonso Alejo Matias              ARG   0   1546
+Alvar Ayuso                      ESP   0   1546
+Alvaro Alcalde Sanchez           ESP   0   1546
+Alvaro Avila                     CHI   0   1546
+Alvaro Carretero Gutierrez       ESP   0   1546
+Alvaro Cerdan Olmo               ESP   0   1546
+Alvaro Crespo                    ESP   0   1546
+Alvaro Garcia                          0   1546
+Alvaro Jose Blanco Carrascosa    ESP   0   1546
+Alvaro Lopez Rodriguez           ESP   0   1546
+Alvaro Martinez Diez             ESP   0   1546
+Alvaro Martinez Espi             ESP   0   1546
+Alvaro Montesdeoca Vega          ESP   0   1546
+Alvaro Perez Gas                 ESP   0   1546
+Alvaro Pizarro                   CHI   0   1546
+Alvaro Rodriguez Gonzalez        ESP   0   1546
+Alvaro Rodriguez Lopez           ESP   0   1546
+Alvaro San Vicente                     0   1546
+Alvaro Sola Alba                       0   1546
+Alvin Shehu                      ALB   0   1546
+Aly Abdo                         EGY   0   1546
+Aly Khashaba                     EGY   0   1546
+Aly Samer                        EGY   0   1546
+Amadeo Catala Lopez              ESP   0   1546
+Ameer Gamal                      EGY   0   1546
+Amisha Dylan Appuhamilage              0   1546
+Ammar Altamimi                   KUW   0   1546
+Amr Hassan                       QAT   0   1546
+Andre Petit                      PAR   0   1546
+Andrea Bettineschi               ITA   0   1546
+Andrea Bottini                   ITA   0   1546
+Andrea Brunello                  ITA   0   1546
+Andrea Di Vito                   ITA   0   1546
+Andrea Milani                    ITA   0   1546
+Andrea Natoli                    ITA   0   1546
+Andreas Drewing                  AUT   0   1546
+Andreas Martell Beuzit           ESP   0   1546
+Andrei Sorescu                   SUI   0   1546
+Andres Beuselinck                BEL   0   1546
+Andres Britos                    ITA   0   1546
+Andres Catapano                  ITA   0   1546
+Andres Gomez                     CHI   0   1546
+Andres Limon Pascual                   0   1546
+Andres Poblete                   CHI   0   1546
+Andres Raad                      ECU   0   1546
+Andres Reyes Ruiz                ESP   0   1546
+Andres S. Esquetini Verno        ECU   0   1546
+Andrew Powell                          0   1546
+Andrew Schutt                          0   1546
+Andrew Warren                    GBR   0   1546
+Andriws De Souza U.              BRA   0   1546
+AndrÃ© Henrique                  BRA   0   1546
+Angel Carrasco Villaescusa             0   1546
+Angel Mendiola                   MEX   0   1546
+Angelo Castro Aracena            CHI   0   1546
+Aniol Sibecas                    ESP   0   1546
+Antoine Willermain               BEL   0   1546
+Anton Malmqvist                        0   1546
+Antonino Fama                    ITA   0   1546
+Antonino Gitto                   ITA   0   1546
+Antonio Corpas                   ESP   0   1546
+Antonio De La Corte Dabrio             0   1546
+Antonio Gilo Palomino            ESP   0   1546
+Antonio Jesus Cardona Gonzalez   ESP   0   1546
+Antonio Jose Cardona Botella           0   1546
+Antonio M Sequera                ESP   0   1546
+Antonio MaÃ±as Capel             ESP   0   1546
+Antonio Montiel                  MEX   0   1546
+Antonio Morales                  USA   0   1546
+Antonio Pepe                     ITA   0   1546
+Antonio Portillo Gonalez         ESP   0   1546
+Antonio Ramirez MuÃ±oz           ESP   0   1546
+Antonio Ramos Rincon             ESP   0   1546
+Antonio Rodriguez Gonzalez         ESP   0   1546
+Antonio Zaragoza Catala            ESP   0   1546
+Antonio Zulaica                    MEX   0   1546
+Antony Hampson                           0   1546
+Ariel Mogni                        ITA   0   1546
+Arnaud Piacentile                  FRA   0   1546
+Arno De Proost                     BEL   0   1546
+Aron Heimer                        SWE   0   1546
+Arsham Moradi Nejad Marian         IRI   0   1546
+Arthaud Dumoulin                   FRA   0   1546
+Arthur Hugounenq                   FRA   0   1546
+Arthur Peret                       FRA   0   1546
+Arthur Rodrigues                   BRA   0   1546
+Arthur Souza Marques Farias        BRA   0   1546
+Arturo Gastelum Osuna              MEX   0   1546
+Asser Elnokaly                     EGY   0   1546
+Atsuro Okabe                       JPN   0   1546
+Atsushi Maeda                      JPN   0   1546
+Augusto Gassen Dos Santos          BRA   0   1546
+Axel Stromberg                     SWE   0   1546
+Axel Waris                         FIN   0   1546
+Ayman Marzouk                      EGY   0   1546
+Ayman Wahid Elghazaly              EGY   0   1546
+Ayrton Bilos                       ARG   0   1546
+Bandar Alhusaynan                  KSA   0   1546
+Baptiste Benetoux                  FRA   0   1546
+Barnaba Zanon                      ITA   0   1546
+Bart Van Kampen                    NED   0   1546
+Bartolomeo Zagaria                 ITA   0   1546
+Bastian Sharp Tejeda               CHI   0   1546
+Ben Sedrine Wajih                  TUN   0   1546
+Benjamin Fitzon                    GER   0   1546
+Benjamin Hughes                    CHI   0   1546
+Benjamin NuÃ±ez                    CHI   0   1546
+Benjamin Palm                      SWE   0   1546
+Benjamin Reynoso                   MEX   0   1546
+Benoit Mavoungou                   FRA   0   1546
+Bernardo De Marco Rigon            BRA   0   1546
+Bernardo Meyer                     BRA   0   1546
+Bernardo Rigon                     BRA   0   1546
+Bernd Steiner                      AUT   0   1546
+Bohdan Levchuk                     UKR   0   1546
+Bojan Jelovac                      GBR   0   1546
+Boris Beumer                       NED   0   1546
+Boris Novak                        AUT   0   1546
+Boris Spanjaard                    NED   0   1546
+Borja Daniel Fainstein Hernandez   ESP   0   1546
+Borja Recio Gallego                ESP   0   1546
+Borja Simoes                       ESP   0   1546
+Brm Coene                          BEL   0   1546
+Bruis Van Vlijmen                        0   1546
+Bruno Dario Amato                        0   1546
+Bruno M. Dornelles                 BRA   0   1546
+Bryan Ze'Ev golante                      0   1546
+Cale Hooker                              0   1546
+Calogero Cammilleri                ITA   0   1546
+Carl Axel Ricardo Holmkvist Cabo   ESP   0   1546
+Carl Isaac Wiman                   SWE   0   1546
+Carlos Aranda Pez                  ESP   0   1546
+Carlos Castejon Martinez           ESP   0   1546
+Carlos Corberan Tormo              ESP   0   1546
+Carlos Elliot Cruzado              ESP   0   1546
+Carlos Galvez                      ECU   0   1546
+Carlos Garcia Garcia               VEN   0   1546
+Carlos Gonzalez Figueroa           ESP   0   1546
+Carlos IbaÃ±ez Orquin              ESP   0   1546
+Carlos Lizano                      ECU   0   1546
+Carlos Lobo                        ECU   0   1546
+Carlos Martinez Osorio             ESP   0   1546
+Carlos Penafiel                    ESP   0   1546
+Carlos Ramos Tudela                ESP   0   1546
+Carlos Rodas Perez                 ESP   0   1546
+Carlos Ruben Andrade Santana       ESP   0   1546
+Carlos Ruz                         ESP   0   1546
+Cavaleri Riccardo                  ITA   0   1546
+Cesar Miranda                      PAR   0   1546
+Chabier Alaiza IbaÃ±ez             ESP   0   1546
+Christian Bohnke                   DEN   0   1546
+Christian KÃ¶berle                 AUT   0   1546
+Christian OrduÃ±a Guzman           MEX   0   1546
+Christian Paul Del Amo Lauder      ESP   0   1546
+Christian Salek                    AUT   0   1546
+Christian Spektor                  ARG   0   1546
+Christian Tobo-Carlsen             ECU   0   1546
+Christian Xavier Vier              ARG   0   1546
+Christoph Gschiel                  AUT   0   1546
+Christoph Krenn                          0   1546
+Claudio Lanzinger Zurita           ESP   0   1546
+Claudio Scatizzi                   ITA   0   1546
+Clement Bourdin                    BEL   0   1546
+Clement Codron                     FRA   0   1546
+Clement Pelt                       LUX   0   1546
+Colin Weng Keong Cheong                  0   1546
+Connor Ortega Chisholm             ESP   0   1546
+Constantin Dan Lazar                     0   1546
+Cory Shannon                       CAN   0   1546
+Cristiano Araujo                   URU   0   1546
+Cristofer Ricieri P. Pandoldo      BRA   0   1546
+Cyril Gaillard                     FRA   0   1546
+Daan Koene                         NED   0   1546
+Daian Emil Verna                       0   1546
+Daisuke Shoyama                  JPN   0   1546
+Dalibor Ptak                     CZE   0   1546
+Damjan Danilovic                 MNE   0   1546
+Daniel Aviles Cayuela            ESP   0   1546
+Daniel Blanco Dopazo             ESP   0   1546
+Daniel Casal Acosta              ESP   0   1546
+Daniel CaÃ±ete                   PAR   0   1546
+Daniel Emiliano Ojeda                  0   1546
+Daniel Friedl                    AUT   0   1546
+Daniel Gutierres Perez           ESP   0   1546
+Daniel Hoyos                     ECU   0   1546
+Daniel Lopez Gutierrez           ESP   0   1546
+Daniel Madani                    IRI   0   1546
+Daniel Maldonado Fornieles       ESP   0   1546
+Daniel Martinez Rizo             ESP   0   1546
+Daniel Orejuela Marin            ESP   0   1546
+Daniel Petronic                  AUT   0   1546
+Daniel Rodriguez De Porras       ESP   0   1546
+Daniel Rodriguez Sol             ESP   0   1546
+Daniel Salcedo Groen             ESP   0   1546
+Daniel Sevillano Sola            ESP   0   1546
+Daniel Verdugo Beneroso          ESP   0   1546
+DanielÂ ocampo                   PAR   0   1546
+Danilo Baca                      ITA   0   1546
+Dante Gustavo Luchetti           ITA   0   1546
+Danyil Yevdokimov                UKR   0   1546
+Dario Maturi                     MON   0   1546
+Dario Perez Ramos                      0   1546
+Darius Romancikas                LTU   0   1546
+David Alejandro Serna Gonzalez   ESP   0   1546
+David Alten                            0   1546
+David Arana                      ESP   0   1546
+David Eugene Henry Eldar               0   1546
+David Fernandez                        0   1546
+David Ferragut Urea                    0   1546
+David Garcia Cezon               ESP   0   1546
+David Garcia Perez               ESP   0   1546
+David Gimenez Vazquez            ESP   0   1546
+David Juarez                     FRA   0   1546
+David Mateo                      FRA   0   1546
+David Millan                     ESP   0   1546
+David Moreno Abril               ESP   0   1546
+David Oliva Sueco                ESP   0   1546
+David Pedroso Hennemann          BRA   0   1546
+Davide Bertuccini                SMR   0   1546
+Davide Calabro                   ITA   0   1546
+Davide Gabrielli                 ITA   0   1546
+Davide Murolo                    ITA   0   1546
+Davide Pasqualicchio             ITA   0   1546
+Dennis Verstraeten             BEL   0   1546
+Diego Agustin Marcial          ARG   0   1546
+Diego Arnoldo Ruiz Espinosa    MEX   0   1546
+Diego Batista                  URU   0   1546
+Diego Bentjerodt               CHI   0   1546
+Diego Campos                   CHI   0   1546
+Diego Cid Navarro              ESP   0   1546
+Diego Jesus Bellido Trujillo         0   1546
+Diego Leal                     VEN   0   1546
+Diego Martin Calderaro         BRA   0   1546
+Diego Maruri                   CHI   0   1546
+Diego Morganti                 ITA   0   1546
+Diego N. Jacome Almeida        ECU   0   1546
+Diego Nestor Benito            ARG   0   1546
+Diego Sebastian Ramos          URU   0   1546
+DiegoÂ pugliese                ARG   0   1546
+Dimitri Loupetis               FRA   0   1546
+Dino Andres Matilla Obligado   CHI   0   1546
+Domenico Alessio Pistilli      ITA   0   1546
+Domenico Zingrillo             ITA   0   1546
+Domingo Villegas Ropero        ESP   0   1546
+Dominique Campana              FRA   0   1546
+Dustin Fletcher                      0   1546
+Ebbe Badersten                 SWE   0   1546
+Ebran A. Theilacker            BRA   0   1546
+Edegardo Cimadamore            ITA   0   1546
+Edgardo Suarez                 MEX   0   1546
+Edoardo De Panicis             ITA   0   1546
+Edoardo Miccini                ITA   0   1546
+Edoardo Paoletti               ITA   0   1546
+Eduardo Fernandes              BRA   0   1546
+Eduardo Figueira Fernandes     BRA   0   1546
+Eduardo Garcia-Donas morales   ESP   0   1546
+Eduardo Knorr                  BRA   0   1546
+Eduardo Neutzling              BRA   0   1546
+Eduardo Nieto De OrduÃ±a       ESP   0   1546
+Eduardo Torres Rodriguez             0   1546
+Egidijus Gudavicius            LTU   0   1546
+Egor Romanov                   RUS   0   1546
+Eid Haydari                    QAT   0   1546
+Eleftherios Theodorou          GRE   0   1546
+Elia Purita                    ITA   0   1546
+Elias Perez Valiente           ESP   0   1546
+Elliot Richard Lilliedahl      SWE   0   1546
+Emanual Juan Mandrile                0   1546
+Emanuele Gaspari               ITA   0   1546
+Emiel Meijer                   NED   0   1546
+Emil Domela Hansen                   0   1546
+Emil LilleÃ¸reÂ madsen         DEN   0   1546
+Emiliano Bellavia              ITA   0   1546
+Emiliano Cerri                 ITA   0   1546
+Emiliano Jose Maiquez          ARG   0   1546
+Emiliano Rizo                  ARG   0   1546
+Emilio Sanchez Molina          ESP   0   1546
+Emilio Trejo                   MEX   0   1546
+Emilis Baltrimaitis            LTU   0   1546
+Emmanuel Iglesias              USA   0   1546
+Emmanuel Martin                FRA   0   1546
+Emmanuel Vergara Galaz         CHI   0   1546
+Enric Batalla Lopez            ESP   0   1546
+Enrico De Marco                ITA   0   1546
+Enrico Govoni                  ITA   0   1546
+Enrique Akram Sicilia Amrani   ESP   0   1546
+Enrique Estreder Tolosa        ESP   0   1546
+Enrique Vizcino Perez          ESP   0   1546
+Enzo Echegorria                ARG   0   1546
+Enzo Fuentealba Cifuentes      CHI   0   1546
+Enzo Lautaro Caggiano                0   1546
+Enzo Ricevuto                  ITA   0   1546
+Enzo Rodrigo Lafuente          ARG   0   1546
+Eric Mata                      ESP   0   1546
+Eric Sjolin                    SWE   0   1546
+EricÂ aguillon                 PAR   0   1546
+Erik NordstrÃ¶m                SWE   0   1546
+Erko Nigula                    EST   0   1546
+Erwan Catteau-Eycken           FRA   0   1546
+Estanislao Diez Perez          ESP   0   1546
+Esteban Bou Llorens            ESP   0   1546
+Ethan Bardo                    GBR   0   1546
+Ettore La Carrubba             ITA   0   1546
+Ewan Ramsden                   GBR   0   1546
+Ezequiel Giordani Diaz         ESP   0   1546
+Faber Sporken                  NED   0   1546
+Fabiano Dominguez              BRA   0   1546
+Fabiano Olivera Domingues      URU   0   1546
+Fabio Albicini                 ITA   0   1546
+Fabio Marcelli                 ITA   0   1546
+Fabio Pitrone                  ITA   0   1546
+Fabio Viecelli                 BRA   0   1546
+Fabricio Cattaneo              ITA   0   1546
+Fabricio Correa                URU   0   1546
+Facundo Lopez                        0   1546
+Facundo Oliva                  ARG   0   1546
+Fahad Almansoor                KSA   0   1546
+Fahad Janahi                   UAE   0   1546
+Faisal Alnoaimi                QAT   0   1546
+Faisal Alothman                KSA   0   1546
+Fawaz Almansoor                KSA   0   1546
+Federico Allegri               ITA   0   1546
+Federico Damian Gomez                0   1546
+Federico Daniel Alejandro Albis              ARG   0   1546
+Federico Lentini                             ITA   0   1546
+Fefrnando Galan Sanchez                      ESP   0   1546
+Felipe Alvarez De Los Corrales Lora Villar   ESP   0   1546
+Felipe Henker Ioewe                          BRA   0   1546
+Felipe Laso                                  ECU   0   1546
+Felipe Orellana                              CHI   0   1546
+Felix Bengtsson                              SWE   0   1546
+Felix Thaler                                 AUT   0   1546
+Fernando Carbajo Morales                           0   1546
+Fernando Carrasco Dominguez                  ESP   0   1546
+Fernando David Suarez                        ARG   0   1546
+Fernando Dominguez Cruz                      ESP   0   1546
+Fernando Gabriel Ingaramo                    ARG   0   1546
+Fernando Herrera                             CHI   0   1546
+Fernando Ivan Zurita                               0   1546
+Fernando Jara Fonseca                        CHI   0   1546
+Fernando Jerez Morales                       ESP   0   1546
+Fernando Lavall                              PAR   0   1546
+Fernando Romero Perez                        ESP   0   1546
+Ferran Hackl                                 AUT   0   1546
+Filip EngstrÃ¶m                              SWE   0   1546
+Filip Verbeek                                BEL   0   1546
+Filippo Bellegati                            ITA   0   1546
+Filippo Carzitti                             ITA   0   1546
+Filippo Necchi                               ITA   0   1546
+Filippo Salvatori                            ITA   0   1546
+Florian Kiefer                               AUT   0   1546
+Florian Valsot                               FRA   0   1546
+Fouad Farag                                  EGY   0   1546
+Francesco Cristallo                          ITA   0   1546
+Francesco Fusco                              URU   0   1546
+Francesco Graziani                           ITA   0   1546
+Francesco Lo Bue                             ITA   0   1546
+Francesco Placidi                            ITA   0   1546
+Francesco Spurio                             ITA   0   1546
+Francisco Calvache Segura                    ESP   0   1546
+Francisco Diaz NuÃ±ez                        ESP   0   1546
+Francisco FerrÃ£o                            POR   0   1546
+Francisco Gil                                ESP   0   1546
+Francisco Gine Paraiso                       ESP   0   1546
+Francisco Gonzalez De Rafael                 ESP   0   1546
+Francisco Ignacio Hernandez Peragallo        CHI   0   1546
+Francisco Ivan Mingorance Martin             ESP   0   1546
+Francisco Javier Arellano Maldonado          CHI   0   1546
+Francisco Javier Gomez Crespo                ESP   0   1546
+Francisco Javier Lanillos Martinez           ESP   0   1546
+Francisco Javier Ruiz-Tagle                  CHI   0   1546
+Francisco Jesus Aranda Arrabal               ESP   0   1546
+Francisco Jimenez De Vicuna                  ESP   0   1546
+Francisco Jose Moran Almenara   ESP   0   1546
+Francisco Jose Plaza Moreno     ESP   0   1546
+Francisco Lopez Feo             USA   0   1546
+Francisco Lopez Garcia          USA   0   1546
+Francisco LudueÃ±a                    0   1546
+Francisco Macias Macias         ESP   0   1546
+Francisco Menero Camara         ESP   0   1546
+Francisco NuÃ±ez                CHI   0   1546
+Francisco Palacios              ECU   0   1546
+Francisco Parra De Juan         ESP   0   1546
+Francisco Tobaria Castro        ESP   0   1546
+Francisco Vega                  ECU   0   1546
+Franco Emanuel Rios Duarte      ARG   0   1546
+Franco Giaverini SantibaÃ±ez    CHI   0   1546
+Franco MontaÃ±ana               ARG   0   1546
+Franco Polucci                  CHI   0   1546
+Franco Scaravilli                     0   1546
+Franco Torres                         0   1546
+Francois Gardier                BEL   0   1546
+FranÃ§ois Authier               FRA   0   1546
+Frederic Gounongbe              BEL   0   1546
+Frederick Bott                  GER   0   1546
+Gabriel Espelleta Font          ESP   0   1546
+Gabriel Meana                         0   1546
+Gabriel Monico                  ARG   0   1546
+Gabriel Perdomo Gascon          ESP   0   1546
+Gabriel Perez Carral            ESP   0   1546
+Gabriel Reis Costa Da Silva     BRA   0   1546
+Gabriel Toledo Amador           ESP   0   1546
+Gabriele Asaro                  ITA   0   1546
+Gabriele Bosco                  ITA   0   1546
+Gabriele Capraro                ITA   0   1546
+Gabriele Magaddino              ITA   0   1546
+Gaston Alberto Mansilla               0   1546
+Gaston Pellichero                     0   1546
+Gaston Zarate                   ECU   0   1546
+Genis Vlaseca Masanes           ESP   0   1546
+Georg Hubich                    AUT   0   1546
+George Tsirigotis               GRE   0   1546
+Gerard Carpinell Agusti         ESP   0   1546
+Gerard Lopez Vas                ESP   0   1546
+Gerardo Cingolani               ARG   0   1546
+German Calleja                  ESP   0   1546
+German Jesus Clavijo Ortiz      ESP   0   1546
+Gernot Prammer                        0   1546
+Geronimo Iriart Alonzua         ESP   0   1546
+Ghanim Ali m.a. al-Burshid      QAT   0   1546
+Giampietro Cattaneo             ITA   0   1546
+Gianluca Di Nicola              ITA   0   1546
+Gianluca Donna                  ITA   0   1546
+Gianluigi Santilli                ITA   0   1546
+Gijs Verleisdonk                  NED   0   1546
+Gil Tremouroux                    BEL   0   1546
+Giles Flick                       AUS   0   1546
+Giorgio Licitra                   ITA   0   1546
+Giorgio Passalacqua               ITA   0   1546
+Giovanni Alberto Capolongo        ITA   0   1546
+Giuliano Ivan Pedrali             ITA   0   1546
+Giulio Lavaggi                    ITA   0   1546
+Giulio Mazzoli                    ITA   0   1546
+Giulio Trombino                   ITA   0   1546
+Giuseppe Daddato                  ITA   0   1546
+Giuseppe Fornelli                 ITA   0   1546
+Giuseppe Ruffo                    ITA   0   1546
+Giuseppe Sorce                    ITA   0   1546
+Gonzalo Agustin Escobar                 0   1546
+Gonzalo Bravo Pavez               CHI   0   1546
+Gonzalo Carmona Perez                   0   1546
+Gonzalo Diaz Leone                ESP   0   1546
+Gonzalo Ferrero Bayarri           ESP   0   1546
+Gonzalo Pascual                         0   1546
+GonÃ§alo Bettencourt              POR   0   1546
+Gota Odagiri                      JPN   0   1546
+Gregory Hermans                   BEL   0   1546
+Guido Nicolas Pozzer              ARG   0   1546
+Guido Talarico                    ITA   0   1546
+Guilherme Tavares                 BRA   0   1546
+Guillem Arno Blasi                ESP   0   1546
+Guillermo Alcorta                       0   1546
+Guillermo Barca Perez             ESP   0   1546
+Guillermo Cristaldo               PAR   0   1546
+Guillermo Espinoza Concha         CHI   0   1546
+Guillermo Granero Alcocer         ESP   0   1546
+Guillermo GuerreÃ±o Pigola        PAR   0   1546
+Guillermo Vera Cebollero          ESP   0   1546
+Gustavo Silveira                  BRA   0   1546
+Gutho Alcantara De Mello          BRA   0   1546
+Hamad Abdullah                          0   1546
+Hamad Al Mulla                    QAT   0   1546
+Hamad Aljanahi                    UAE   0   1546
+Hamad Alnesuf                     BRN   0   1546
+Harold Bernard                    FRA   0   1546
+Haru Kaneko                       JPN   0   1546
+Hassan Al Abdullah                KSA   0   1546
+Hassan Almannai                   QAT   0   1546
+Hassan Shahin                     EGY   0   1546
+Hector De Armas Padron            ESP   0   1546
+Hector Manuel Vergara Frasqueri   PAR   0   1546
+Hector Sanchez CatalÃ             ESP   0   1546
+Helios Parreira                   BRA   0   1546
+Henri Vanstraelen                    ESP   0   1546
+Hernan AndresÂ rodriguez Rodriguez   PAR   0   1546
+Hess Olesen                                0   1546
+Horacio Adorno                       PAR   0   1546
+Hossam Mohamed abo-El-Ela            EGY   0   1546
+Hugo Bielsa Trivez                   ESP   0   1546
+Hugo De La Fuente                          0   1546
+Hugo Granda Rubio                    ESP   0   1546
+Hugo Navarro                         CHI   0   1546
+Hugo Perez Ramos                           0   1546
+Hugo Sanchez Carro                   ESP   0   1546
+Humbert Tura Campalans               ESP   0   1546
+Husain Dawani                        BRN   0   1546
+Hussain Alsarraf                     KUW   0   1546
+Hussen Gomaa                         EGY   0   1546
+Ian Martin Milone                    ESP   0   1546
+Ibrahem Al-Emadi                     QAT   0   1546
+Igino Celiberti                      ITA   0   1546
+Ignacio Asenjo Tomas                 ESP   0   1546
+Ignacio Dalves                       URU   0   1546
+Ignacio De Elia                      USA   0   1546
+Ignacio Eduardo Gaspari                    0   1546
+Ignacio Hernandez Cruanes                  0   1546
+Ignacio Javier De La Barra Curotto   CHI   0   1546
+Ignacio Melgarejo Darnaude           ESP   0   1546
+Ignacio Mendiola                     MEX   0   1546
+Ignacio Tellez Rodriguez             ESP   0   1546
+Igor Pio                             BRA   0   1546
+Iker Rodriguez Soto                  ESP   0   1546
+Ingmar Remmerswaal                   NED   0   1546
+Ismael Asaad Perez                   ESP   0   1546
+Ismael Maqueda Hidalgo               ESP   0   1546
+Ismael Sanchez Ballester             ESP   0   1546
+Israel Postiguillo NuÃ±o             ESP   0   1546
+Ito Satoshi                          JPN   0   1546
+Itobal Pinto Diaz                    ESP   0   1546
+Ivan Aguirre                         ECU   0   1546
+Ivan Ballestrero                           0   1546
+Ivan Berrio Alba                     ESP   0   1546
+Ivan Cervera Navarro                 ESP   0   1546
+Ivan Miguel Bourquin                 ARG   0   1546
+Ivan Molina Martell Zaragoza         ESP   0   1546
+Ivan Ortigosa Comas                  ESP   0   1546
+Ivan Resnekov                              0   1546
+Ivan Sanchez Segui                   ESP   0   1546
+IÃ±aki Alkiza                        ESP   0   1546
+IÃ±aki Sarasua                             0   1546
+IÃ±aki Tramontana Encinas            CHI   0   1546
+Jack Carpenter                       GBR   0   1546
+Jack Hazlewood                       GBR   0   1546
+Jacob Muller Momm            BRA   0   1546
+Jacobo Quevedo Rodriguez     ESP   0   1546
+Jacopo Bartolini             ITA   0   1546
+Jacques Roux Vidal           CHI   0   1546
+Jaime Bergareche Zuloaga     ESP   0   1546
+Jaime Lobo                   ESP   0   1546
+Jaime Ramos Zarcero          ESP   0   1546
+Jairo Guerrero               ESP   0   1546
+Jairo Guerrero Escarcena     ESP   0   1546
+Jairo Rueda                  ESP   0   1546
+Jake Bewley                  GBR   0   1546
+James Furlong                      0   1546
+Jan Aurich Cabarroques       ESP   0   1546
+Jan Hulshagen                BEL   0   1546
+Jan Masferrer                ESP   0   1546
+Jan Wangt                    QAT   0   1546
+Jannick Lupescu              NED   0   1546
+Jaser El-Habrouk             EGY   0   1546
+Jaser Elhabrouk              EGY   0   1546
+Jaume Romera Barcelo         ESP   0   1546
+Javier Cardenas Ramirez      ESP   0   1546
+Javier Collantes Guijo             0   1546
+Javier De Paiz Ferrer        ESP   0   1546
+Javier Etayo Fernandez       GBR   0   1546
+Javier Ezequiel Fernandez    ESP   0   1546
+Javier Gomez Melendo         ESP   0   1546
+Javier Hernandez Del Prado   ESP   0   1546
+Javier Lucero                ARG   0   1546
+Javier Mena Moreno           ESP   0   1546
+Javier Mendez                USA   0   1546
+Javier Millet Llinares       ESP   0   1546
+Javier Nicolas Maluf               0   1546
+Javier Quiros Garcia         ESP   0   1546
+Javier RamÃ-rez DavÃ³        ESP   0   1546
+Javier Redondo Mendez        ESP   0   1546
+Javier Rodriguez Martinez    ESP   0   1546
+Javier Rodriguez Navarro     ESP   0   1546
+Javier Salas Romero          ESP   0   1546
+Javier Serrats               ESP   0   1546
+Javier Tomas Lopez           ESP   0   1546
+Javier Valdivia Jimenez      ESP   0   1546
+Javier Zafra                 ESP   0   1546
+Jawad Alhabib                KSA   0   1546
+Jay Usher                          0   1546
+Jean Baptiste Caussin        FRA   0   1546
+Jean Pascal Pellicer         FRA   0   1546
+Jeffrey Metzler              AUT   0   1546
+Jerome Boronad               FRA   0   1546
+Jeronimo Cabrera             ARG   0   1546
+Jesper Ospina Roejskjaer     DEN   0   1546
+Jesse Lohr                          NED   0   1546
+Jesus Bandres Rivas                 VEN   0   1546
+Jesus Esteban Marquet Ojeda         ESP   0   1546
+Jesus Holgado Villena               ESP   0   1546
+Jesus Morales Fernandez             ESP   0   1546
+Jesus Navarro Martinez              ESP   0   1546
+Jesus Ruiz Bohorquez                ESP   0   1546
+JesÃºs IrÃ-bar Olmo Villarreal      ESP   0   1546
+Jevgenij Grigorenko                 LTU   0   1546
+Jimmy Asp                           SWE   0   1546
+Jiri Vanek                          CZE   0   1546
+Jo Okomura                          JPN   0   1546
+Joan FarrÃ© Aguilera                ESP   0   1546
+Joan Serrano Daras                  ESP   0   1546
+Joao Garcia Vaz Serra De Moura      POR   0   1546
+Joao Ricaldone                      BRA   0   1546
+Joaquin Aranda                      ARG   0   1546
+Joaquin Assennato                         0   1546
+Joaquin Exequiel Blanco Gutierrez   ARG   0   1546
+Joaquin Gomez                       ARG   0   1546
+Joaquin Holgado Villena             ESP   0   1546
+Joaquin Marcos                            0   1546
+Joaquin Suares                      ARG   0   1546
+Joel Camathias                      SUI   0   1546
+Joel Climent Subirats                     0   1546
+Joel Losana                         ESP   0   1546
+Joel Medie Rodriguez                ESP   0   1546
+Joel Molina                         ESP   0   1546
+Joel SchwÃ¤rzler                    AUT   0   1546
+Johan Emanuelsson                   SWE   0   1546
+Johan Madarasz                      FRA   0   1546
+Johar Almohd                        QAT   0   1546
+John Cartes Matulich                CHI   0   1546
+Jon Bayo Arrate                           0   1546
+Jonas Nicolai Heiland               GER   0   1546
+Jonatan Daniel Bijou                ARG   0   1546
+Jonathan Binding                    GBR   0   1546
+Jonathan David Rowland              GBR   0   1546
+Jonathan Mark                             0   1546
+Jonay Santiago Galindo              ESP   0   1546
+Joni Luolamaa                       FIN   0   1546
+Jordi EspaÃ±ol Spuch                ESP   0   1546
+Jorge Alfonso Vega                  ESP   0   1546
+Jorge Belmonte Borja                ESP   0   1546
+Jorge Escuchas Cobo                 ESP   0   1546
+Jorge Ferre Sainz                         0   1546
+Jorge Hernan Tupayachi Llanos       ESP   0   1546
+Jorge IbaÃ±ez                       USA   0   1546
+Jorge LuisÂ dominguez Vargas        PAR   0   1546
+Jorge Medina Jimenez                ESP   0   1546
+Jorge Nofuentes Gil                 ESP   0   1546
+Jorge Raventos Monegal              ESP   0   1546
+Jorge San Martin Castellanos        ESP   0   1546
+Jort Nolten                         NED   0   1546
+Jose Adrian Prieto NuÃ±ez           ESP   0   1546
+Jose Antonio Collado Jimenez        ESP   0   1546
+Jose Antonio Dominguez Herrero      ESP   0   1546
+Jose Antonio Garcia Jimenez         ESP   0   1546
+Jose Antonio Lopez                  ESP   0   1546
+Jose Antonio Lopez Vallejo          ESP   0   1546
+Jose Antonio Ortega Rodriguez       ESP   0   1546
+Jose Antonio Ruiz Rico              ESP   0   1546
+Jose Bugmann                        CHI   0   1546
+Jose Carlos Bernal Rodriguez              0   1546
+Jose Daniel Sanchez Pardo           ESP   0   1546
+Jose De La Riva Huerta              ESP   0   1546
+Jose Eduardo Garcia                 MEX   0   1546
+Jose Francisco Carrizo                    0   1546
+Jose Fuentes Ortega                       0   1546
+Jose Gabriel Perez                  ECU   0   1546
+Jose Gonzalez Garcia                ESP   0   1546
+Jose Luis Lopez Hidalgo                   0   1546
+Jose Luis Rodriguez Martinez        ESP   0   1546
+Jose Manuel Chicon Ruiz             ESP   0   1546
+Jose Maria Bruno Medina             ESP   0   1546
+Jose Maria De Las Casas             ESP   0   1546
+Jose Maria Pombo Novo               ESP   0   1546
+Jose Maria Salado Garcia                  0   1546
+Jose Martinez                             0   1546
+Jose Miguel Prieto                  CHI   0   1546
+Jose Miguel Sanchez MaÃ±as          ESP   0   1546
+Jose Orlando Benitez Aranda         PAR   0   1546
+Jose Pedro Castellon Lindiman       URU   0   1546
+Jose Ramon Gonzalez Bernal          ESP   0   1546
+Jose Risso                          PAR   0   1546
+Jose Roman Pozo                     ESP   0   1546
+Jose Rosales                        ESP   0   1546
+Jose Senciales Marquez              ESP   0   1546
+Josep Descals Carbonell             ESP   0   1546
+Juan Agustin OrdoÃ±ez               MEX   0   1546
+Juan Andres Antunes                 BRA   0   1546
+Juan Antonio Hernandez Martin       ESP   0   1546
+Juan Antonio Magan Sanchez          ESP   0   1546
+Juan Antonio Soto                   CHI   0   1546
+Juan Bautista Moratorio Larrechea   URU   0   1546
+Juan Carlos Martin Delgado          ESP   0   1546
+Juan Carlos Rodriguez Ruiz                0   1546
+Juan Carlos Vergara Garrido         ESP   0   1546
+Juan Cruz                           ARG   0   1546
+Juan Cruz Albornoz                        0   1546
+Juan Cruz Bordoli                      0   1546
+Juan Cruz Gianullo               ARG   0   1546
+Juan Diego Oria Gonzalez               0   1546
+Juan Emilio Lopez Lopez          ESP   0   1546
+Juan Francisco Fabara            ECU   0   1546
+Juan Ignacio Artia               URU   0   1546
+Juan Ignacio Rodriguez Tojeiro   ARG   0   1546
+Juan Jose Dominguez              ESP   0   1546
+Juan Luis Jimenez                ESP   0   1546
+Juan Manuel Fernandez Lopez      ESP   0   1546
+Juan Manuel Rodriguez Sanchez    ESP   0   1546
+Juan Manuel Sanchez Rodriguez    ESP   0   1546
+Juan Manuel Vazquez              ITA   0   1546
+Juan Martin Paredes              ECU   0   1546
+Juan Martinez Vazquez                  0   1546
+Juan NuÃ±ez Leal                       0   1546
+Juan Pablo Coca Bacardi          PUR   0   1546
+Juan Pablo Fuenzalida            CHI   0   1546
+Juan Pablo Palacio               ITA   0   1546
+Juan Pablo Serrano               ECU   0   1546
+Juan Pedro Rodriguez Carmona     ESP   0   1546
+Juan Ramirez Prieto              ESP   0   1546
+Juan Ramiro Irigoitia                  0   1546
+Juan Rodenas Rodriguez           ESP   0   1546
+Juan Ruiz-Herrera blanquer       ESP   0   1546
+Juan Sanchez Rodriguez           ESP   0   1546
+Juan ZamorÃ Perez                ESP   0   1546
+Julian Roldan                    ARG   0   1546
+Julian SchwÃ¤rzler               AUT   0   1546
+Julian Tosun                     AUT   0   1546
+Julien Biron                     FRA   0   1546
+Julien Pes                       FRA   0   1546
+Julio Cancina                    ARG   0   1546
+Julio Cesar BugueÃ±o Araya       CHI   0   1546
+Julio Luzuriaga                  ECU   0   1546
+Julio Perez Luque                ESP   0   1546
+Julio Recalde                    ECU   0   1546
+Jun Mishima                      JPN   0   1546
+Justin Lopes                           0   1546
+JÃ¶rg KÃ¶nig                     AUT   0   1546
+Kai Knaus                        GER   0   1546
+Kaito Ando                       JPN   0   1546
+Kaiyu Li                         CHN   0   1546
+Kanazashi Hideto                 JPN   0   1546
+Karim Ashraaf                    EGY   0   1546
+Karim Beltagi                    EGY   0   1546
+Karim Beltagy                    EGY   0   1546
+Karim Elhamady                   EGY   0   1546
+Karim Montasser                  EGY   0   1546
+Karim Ramzy                      EGY   0   1546
+Karl Jacob Knagenhjelm             NOR   0   1546
+Karlo Suevich                      CRO   0   1546
+Karolis Kvietkauskas               LTU   0   1546
+Kazuki Shimizu                     JPN   0   1546
+Keiki Fukuda                       JPN   0   1546
+Keita Watanabe                     JPN   0   1546
+Kelly Shannon                      CAN   0   1546
+Kenichiro Hirata                   JPN   0   1546
+Kevin Chan                         SWE   0   1546
+Kevin Miguel Hernandez Zasterova   ESP   0   1546
+Kevin Padron Frias                 ESP   0   1546
+Kevin Tajes                        ARG   0   1546
+Kevin Touzet                       FRA   0   1546
+Keyaki Sasho                       JPN   0   1546
+Khaled Abdullah                          0   1546
+Khaled Aboulatta                   EGY   0   1546
+Khalid Al-Mulla                    QAT   0   1546
+Khalid Al-Nabhani                  OMA   0   1546
+Khalid Al-Rasheed                  QAT   0   1546
+Khalid Alhendawi                   QAT   0   1546
+Khalid Alnabhani                   OMA   0   1546
+Khalid Alobaidly                   QAT   0   1546
+Khalifa Rashdan                    BRN   0   1546
+Kobayashi Tomohiro                 JPN   0   1546
+Kobe Vandelanotte                  BEL   0   1546
+Koki Hojo                          JPN   0   1546
+Kurt Breitfellner                  AUT   0   1546
+Laurent De Barbeyrac               FRA   0   1546
+Laurin Masal                       AUT   0   1546
+Lautaro Lopez Garcia               URU   0   1546
+Leo Revol                          FRA   0   1546
+Leonardo Bevilacqua                ITA   0   1546
+Leonardo De Oliveira               BRA   0   1546
+Leonardo Di Bitetto                ITA   0   1546
+Leonardo Pontes                    BRA   0   1546
+Leonardo R Codagnone                     0   1546
+Leonardo Rafael De Regules         MEX   0   1546
+Leonel Daniel Aguirre              ARG   0   1546
+Lihuel Candiano                          0   1546
+Lilian Foure                       FRA   0   1546
+Lisandro Jesus Silpituca           ARG   0   1546
+Loay Salama                        EGY   0   1546
+Loic Cencig                        FRA   0   1546
+Loic Pelegri                       FRA   0   1546
+Lorenzo Laporta                    BRA   0   1546
+Lorenzo Rossi Tani                 ITA   0   1546
+Louis Couvercelle                  FRA   0   1546
+Luca Cortese                       ARG   0   1546
+Luca Crudeli                       ITA   0   1546
+Luca Fontana                       ITA   0   1546
+Luca Gianzini                    ESP   0   1546
+Luca Mainetti                    ITA   0   1546
+Luca Nasini                      ITA   0   1546
+Luca Petronic                    AUT   0   1546
+Luca Scelzi                      ITA   0   1546
+Luca Sebastiani                  ITA   0   1546
+Luca Silingardi                  ITA   0   1546
+Lucas Franco Rodriguez                 0   1546
+Lucas Hultman                    SWE   0   1546
+Lucas John Van Raay                    0   1546
+Lucas Pillon                     FRA   0   1546
+Lucas Rodriguez Carretero              0   1546
+Luciano Leyton De Vicenzi        CHI   0   1546
+Luciano Manuel Deymonnaz         ARG   0   1546
+Ludvig JÃ¶nsson                  SWE   0   1546
+Luigi Piazzolla                  ITA   0   1546
+Luigi Sortino                    ITA   0   1546
+Luigi Zitarosa                   ITA   0   1546
+Luis A. Jacome Almeida           ECU   0   1546
+Luis Alberto Hernandez           MEX   0   1546
+Luis Artur Feldmann              BRA   0   1546
+Luis Correa                      BRA   0   1546
+Luis Fernando Arredondo Mazo           0   1546
+Luis Miguel Garcia De Andornin   ESP   0   1546
+Luis Miguel Starke Merino              0   1546
+Luis Sanchez Falcon              ESP   0   1546
+Luis Vilchez Trapero             ESP   0   1546
+Luiz Eduardo Fittipaldi          BRA   0   1546
+Lukas Bambalas                   LTU   0   1546
+Maarten Casteleyn                BEL   0   1546
+Mads Thunoe Laudrup                    0   1546
+Mahdi Fendri                     TUN   0   1546
+Mahmoud Menjra                   MAR   0   1546
+Maicon Goulart Borges            BRA   0   1546
+Majed Al Janahi                  UAE   0   1546
+Makoto Takanash                  JPN   0   1546
+Malte Badersten                  SWE   0   1546
+Mamoune Alami Mechiche           MAR   0   1546
+Manfred Ollram                   AUT   0   1546
+Mansour Alrebdi                  KSA   0   1546
+Manuel Alves Costa Carvalhinha         0   1546
+Manuel Aranda                    ESP   0   1546
+Manuel Arrizabalaga Eugenio      ESP   0   1546
+Manuel Carriel                   CHI   0   1546
+Manuel CastaÃ±o Salguero         ESP   0   1546
+Manuel Colmenero MuÃ±oz          ESP   0   1546
+Manuel Damian                    ESP   0   1546
+Manuel Fernandez Gurewitsch      ESP   0   1546
+Manuel Herrero Iriso             ESP   0   1546
+Manuel Ruiz Arana                      0   1546
+Manuel Sebastian Cornejo          ECU   0   1546
+Manuel Soler                      ESP   0   1546
+Manuel Zamora Aguilar             ESP   0   1546
+Mar Moller                              0   1546
+Marc Casals Roige                 ESP   0   1546
+Marc Edouard Chavey               FRA   0   1546
+Marc Fernandez FustÃ©             ESP   0   1546
+Marc Fontanet                     ESP   0   1546
+Marc Geli Sanchez                 ESP   0   1546
+Marc Guinot Torres                ESP   0   1546
+Marc Lupon Martinez               ESP   0   1546
+Marc Pastor Montserrat            ESP   0   1546
+Marc Sintes Villalonga            ESP   0   1546
+Marcel Tenas Forcano              ESP   0   1546
+Marcell Urvolgyi                  HUN   0   1546
+Marcelo Barros                    CHI   0   1546
+Marcelo Duquia                    BRA   0   1546
+Marcelo Flavio Pedrotti           ARG   0   1546
+Marcelo Machado                   BRA   0   1546
+Marcelo Martino                   CHI   0   1546
+Marcelo Saavedra                  ARG   0   1546
+Marcin Maszczyk                   POL   0   1546
+Marco Boscarino                   ITA   0   1546
+Marco Chenlo                            0   1546
+Marco Dal Mas                     ITA   0   1546
+Marco Di Stefano                  ECU   0   1546
+Marco Fogliata                    ITA   0   1546
+Marco Larrea Teran                ECU   0   1546
+Marco Mismetti                    ITA   0   1546
+Marco Pompili                     ITA   0   1546
+Marco Ramirez                     ESP   0   1546
+Marcos CabrÃ© MonguiÃ³            ESP   0   1546
+Marcos Del Pilar                  ESP   0   1546
+Marcos Nahim Buslaiman                  0   1546
+Marcos Rodriguez Munoz            ESP   0   1546
+Marcos Sebastian Berdia Puentes   URU   0   1546
+Marcus Kevin Rouk                 EST   0   1546
+Marek Svejnoha                    CZE   0   1546
+Mariam Alammadi                   BRN   0   1546
+Mariano Adrian Rodriguez Torres   ARG   0   1546
+Mariano Gonzalez                  PAR   0   1546
+Mariano Porter Gomez              MEX   0   1546
+Mario Alvarez                     ECU   0   1546
+Mario Vilchez Jimenez             ESP   0   1546
+Marious Zelba                     AUS   0   1546
+Mark Hinchliffe                   GBR   0   1546
+Mark Oehler                       AUT   0   1546
+Marko Bilyk                       UKR   0   1546
+Markus Adamek                     AUT   0   1546
+Markus KÃ¶berle                   AUT   0   1546
+Marnick Ryckaert                  NED   0   1546
+Martim Dos Santos Nunes                 0   1546
+Martin Cora                       URU   0   1546
+Martin Erhart                     AUT   0   1546
+Martin Ignacio Garcia Di Carlos   CHI   0   1546
+Martin Kazda                      CZE   0   1546
+Martin Martinez Perez             ESP   0   1546
+Martin Poblete                    CHI   0   1546
+Martin Rodriguez                  URU   0   1546
+Martin SchÃ¤ffl                   AUT   0   1546
+Masahiko Murakawa                 JPN   0   1546
+Masami Hirama                     JPN   0   1546
+Massimo Bosa                      ITA   0   1546
+Massimo Ienzi                     ITA   0   1546
+Matheus Cadinelli De Farias       BRA   0   1546
+Mathieu Boursereau                FRA   0   1546
+Mati Gonzalez                     ARG   0   1546
+Matias Adrian Correa              ARG   0   1546
+Matias Ernesto Garnier                  0   1546
+Matias Gonzalo Benencia           ARG   0   1546
+Matias Hernan NuÃ±ez NuÃ±ez       ARG   0   1546
+Matias Karelovic                  CHI   0   1546
+Matias Novillo Molina             ESP   0   1546
+Matias Ortiz                      ARG   0   1546
+Matias Rivera                     ARG   0   1546
+Matias Segura                           0   1546
+Matija Selak                      CRO   0   1546
+Matteo Lalli                      ITA   0   1546
+Matteo Sargolini                  ITA   0   1546
+Matteo Savoldi                    ITA   0   1546
+Matteo Sordini                    ITA   0   1546
+Matteo Zorzin                     ITA   0   1546
+Matthieu Gonzalez                 FRA   0   1546
+Mattia Pierotti                   ITA   0   1546
+Mattia Platania                   ITA   0   1546
+Mattia Rochira                    ITA   0   1546
+Mattia Travisani                  ITA   0   1546
+Mauricio Alvarez                  CHI   0   1546
+Mauricio Centurion                PAR   0   1546
+Mauricio Dos Santos               URU   0   1546
+Mauricio Garcia Villalobos        MEX   0   1546
+Mauricio Martin Echazu Puente     PER   0   1546
+Maurizio Ialacci                  ITA   0   1546
+Mauro Castro                      CHI   0   1546
+Mauro Cesar Chaile                ARG   0   1546
+Max Bjorkman                      SWE   0   1546
+Max Holloway                      GBR   0   1546
+Maxime Hebrard                    FRA   0   1546
+Maximiliano Cerrudo               ARG   0   1546
+Maximiliano Jaramillo Calderon    MEX   0   1546
+Maximiliano Raul Sanchez Aguero   ARG   0   1546
+Maximo Parisi                     ITA   0   1546
+Mehdi Elloumi                     TUN   0   1546
+Menno Brakel                      NED   0   1546
+Metteo Viola                      ITA   0   1546
+Michael Brus                            0   1546
+Michael John Burke                      0   1546
+Michael Raumauf                         0   1546
+Michael Reinthaler                AUT   0   1546
+Michelangelo Rizza                ITA   0   1546
+Mick Oehler                       AUT   0   1546
+Miguel Angel Cagigas Ortiz        ESP   0   1546
+Miguel Angel Fernandez Sota       ESP   0   1546
+Miguel Angel Granados Medina      ESP   0   1546
+Miguel Angel Mas Fernandez        ESP   0   1546
+Miguel Angel Mendez Velasco       ESP   0   1546
+Miguel Angel Molina               ESP   0   1546
+Miguel Angel Ornedo Rodriguez     ESP   0   1546
+Miguel Doncel                     ESP   0   1546
+Milton Schneider                  ARG   0   1546
+Mitsuru Era                       JPN   0   1546
+Moayad Salem Baazeem              KSA   0   1546
+Mohaed Aboulkassem                EGY   0   1546
+Mohamed Ahemd                     EGY   0   1546
+Mohamed Al-Rasheed                QAT   0   1546
+Mohamed Fawzy                     EGY   0   1546
+Mohamed Hasan Alyafei                   0   1546
+Mohamed Hassan                    EGY   0   1546
+Mohamed Ismail                    EGY   0   1546
+Mohamed Mustafa                   EGY   0   1546
+Mohamed Nafie                     EGY   0   1546
+Mohamed Sorour                    EGY   0   1546
+Mohamed Zahran                    EGY   0   1546
+Mohammad Alshamsi                 UAE   0   1546
+Mohammad Tuwainah                 KUW   0   1546
+Mohammed Al Mesallam              QAT   0   1546
+Mohammed Al Yafei                 QAT   0   1546
+Mohammed Alfadala                 QAT   0   1546
+Mohammed Alhusaynan               KSA   0   1546
+Mohammed Almansoori               QAT   0   1546
+Mohammed Almuraikhi               QAT   0   1546
+Mohammed Alshaabi                 QAT   0   1546
+Mohammed Khalid Al Mahmoud        QAT   0   1546
+Mohammed Ragab                    EGY   0   1546
+Mohaned Helal                     EGY   0   1546
+Moos Sporken                      NED   0   1546
+Morgan Mannarino                  FRA   0   1546
+Mori Ignacio SÃ¡ez Lagos          CHI   0   1546
+Moritz Steiner                    AUT   0   1546
+Morris Maracci                    ITA   0   1546
+Mrwan Amer                         EGY   0   1546
+Mubarak Aldelaimi                  QAT   0   1546
+Munir Alsari                       KSA   0   1546
+Musaeed Alazzam                    KSA   0   1546
+Nacho Redondo Fonseca                    0   1546
+Nao Arita                          JPN   0   1546
+Naohiro Hamaguchi                  JPN   0   1546
+Naoki Inoue                        JPN   0   1546
+Naoya Maeta                        JPN   0   1546
+Naser Al Ketbi                           0   1546
+Nasser Al Jaber                    QAT   0   1546
+Natalino Precchiazzi               ITA   0   1546
+Nathan Courrin                     FRA   0   1546
+Nauzet Rafael Guedes Hernandez     ESP   0   1546
+Navid Payvandizadeh                IRI   0   1546
+Nawaf Alfutaymani                  KSA   0   1546
+Nedas Mekuska                      LTU   0   1546
+NiccolÃ² Colzi                     ITA   0   1546
+Nicholas Frank                     USA   0   1546
+Nick Wagenaar                      NED   0   1546
+Nico Faccin                        BRA   0   1546
+Nicola Bianchini                   ITA   0   1546
+Nicola Ferrari                     ITA   0   1546
+Nicola Franchi                     ITA   0   1546
+Nicola Oliva                       ITA   0   1546
+Nicola Ongarato                    ITA   0   1546
+Nicola Remedi                      ITA   0   1546
+Nicolas Andres Carcamo Babaich     CHI   0   1546
+Nicolas Andres Gieco                     0   1546
+Nicolas Ayala                      PAR   0   1546
+Nicolas Boufarres                  FRA   0   1546
+Nicolas Cotard                     USA   0   1546
+Nicolas Macchiaroli                ITA   0   1546
+Nicolas Nugnes                     ARG   0   1546
+Nicolas Ovial                      FRA   0   1546
+Nicolas Palacios                   ECU   0   1546
+Nicolas Pont                       BEL   0   1546
+Nicolas Ritter Aneli               BRA   0   1546
+Nicolas Roberto Viteri Delmastro   CHI   0   1546
+Nicolas Rosas                      URU   0   1546
+Nicolas SchÃ¤ffl                   AUT   0   1546
+Nicolas Simonetti Rey              CHI   0   1546
+Nicolas Tardito                    ECU   0   1546
+Nicolas Tejero                     ESP   0   1546
+Nicolas Van Betuw                  NED   0   1546
+Nicolo Roman                       ITA   0   1546
+NicolÃ¡s Larroulet                       0   1546
+NicolÃ² Campagnolo                 ITA   0   1546
+Nikander Damianos                  NED   0   1546
+Niklas Schmutz                     AUT   0   1546
+Nikolas Zogaj                   BEL   0   1546
+Nils Skajaa                           0   1546
+Noriya Ito                      JPN   0   1546
+Octavio Alvarez                 ARG   0   1546
+Okabe Sohta                     JPN   0   1546
+Ole Oosterom                    NED   0   1546
+Oliver Hodos                    SWE   0   1546
+Oliver Koch                     SWE   0   1546
+Omanr Sabry                     EGY   0   1546
+Omar Akkad                      EGY   0   1546
+Omar El Yacoubi                 MAR   0   1546
+Omar Ibrahim                    UAE   0   1546
+Omar Mohamed Elbialy            EGY   0   1546
+Omar Mohamed Saad               EGY   0   1546
+Omar Nagy                       EGY   0   1546
+Omar Ojeda Rabal                ESP   0   1546
+Omar Rifky                      EGY   0   1546
+Oriol Bellver Ruiz              ESP   0   1546
+Orlando Jesus Garcia Quintana   ESP   0   1546
+Osama Ashraf                    EGY   0   1546
+Osamah Almaqaleh                QAT   0   1546
+Oscar Bentjerodt                CHI   0   1546
+Oscar Cuevas Jurado             ESP   0   1546
+Oscar Govik                     SWE   0   1546
+Oscar Sebber Gormsen                  0   1546
+Oskar Erik Hakonen              EST   0   1546
+Oskar Nurmio                          0   1546
+Otto PeÃ±afiel                  ECU   0   1546
+Pablo Andres Herbias Mella      CHI   0   1546
+Pablo Antonio Marquez Garcia    ESP   0   1546
+Pablo Babiano Martinez          ESP   0   1546
+Pablo Babiano MartÃ-nez         ESP   0   1546
+Pablo Burdeos Larruy            ESP   0   1546
+Pablo Cenoz                     ESP   0   1546
+Pablo Dianez Jordan             ESP   0   1546
+Pablo Diaz                      MEX   0   1546
+Pablo Gomez Molpeceres          ESP   0   1546
+Pablo Gonzalez Contreras        ESP   0   1546
+Pablo IbaÃ±ez Fernandez         ESP   0   1546
+Pablo Jose Diaz Romero          ESP   0   1546
+Pablo Julian Martinez Ubide     ESP   0   1546
+Pablo Martin Davila             ECU   0   1546
+Pablo Mengibar Sanchez          ESP   0   1546
+Pablo Navarro Pacheco           ESP   0   1546
+Pablo Ponce Arroyo              ESP   0   1546
+Pablo Serrano                   ESP   0   1546
+Pablo Serrano Jurado            ESP   0   1546
+PabloÂ recalde                  PAR   0   1546
+Pancho Camurrias                CHI   0   1546
+Paolo Palizzolo                 ITA   0   1546
+Paolo Valsecchi                      ITA   0   1546
+Patricio Belluati                    ESP   0   1546
+Patricio Leon Ancares                CHI   0   1546
+Patrick Andre                        FRA   0   1546
+Patrick Da Rosa Ferreira             BRA   0   1546
+Patrick Dalla Palma                  ITA   0   1546
+Patrick Mayer                        GER   0   1546
+Patrick Pircher                      AUT   0   1546
+Pau Flores Mercader                  ESP   0   1546
+Pau Garcia Bartual                   ESP   0   1546
+Pau MiÃ±ano Ortinez                  ESP   0   1546
+Pau Sanchis Bolta                    ESP   0   1546
+Paul Grig                            FRA   0   1546
+Paul Strating                        NED   0   1546
+Paulo Marchant                       CHI   0   1546
+Paulo Menadier Olguin                CHI   0   1546
+Pavlos-Louis Balafas                 GRE   0   1546
+Pech Thibaud                               0   1546
+Pedro Acosta Lorenzo                 ESP   0   1546
+Pedro Bosio Fuentes                  CHI   0   1546
+Pedro Diaz Torregrosa                      0   1546
+Pedro Fernandez                      CHI   0   1546
+Pedro GraÃ§a                               0   1546
+Pedro Santiago CastaÃ±eyra Delgado   PAR   0   1546
+Peter Bowles                         GBR   0   1546
+Pierluigi Musiari                    ITA   0   1546
+Pierre Tanguy                        FRA   0   1546
+Pierre Valsot                        MON   0   1546
+Pierre Vincent                       FRA   0   1546
+Piersilvio Scarpa                    ITA   0   1546
+Pietro Conti                         ITA   0   1546
+Pietro Romeo Scomparin               ITA   0   1546
+Pijus Balcaitis                      LTU   0   1546
+Pirluigi Musiari                     ITA   0   1546
+Plinio Ferrao                        POR   0   1546
+Pol Ferreres Garcia                  ESP   0   1546
+Pol Lozoya SolÃ                      ESP   0   1546
+Pyry HyrkkÃ¶nen                            0   1546
+Radim Lazaro Chvatal                 CZE   0   1546
+Radu Ionescu                         USA   0   1546
+Rafael Almansa                       ESP   0   1546
+Rafael Ayllon Tejero                       0   1546
+Rafael Montejo Zaldivar              ESP   0   1546
+Rafael Ortega Aparicio                     0   1546
+Rafael Pedregosa Del Rio             ESP   0   1546
+Rafael Podadera Llorens              ESP   0   1546
+Rafael RoldÃ¡n Picazo                ESP   0   1546
+Rafael Santos                        BRA   0   1546
+Raimundo Plaza Bernal                ESP   0   1546
+Ramiro Ciano                               0   1546
+Ramiro L. Alberto Gonzalez       ARG   0   1546
+Ramiro Nehuen T. Contreras       ESP   0   1546
+Ramon Camarena Gomez             ESP   0   1546
+Ramon Cartagena Lopez            ESP   0   1546
+Raphael Bittencourt              BRA   0   1546
+Rashid Abdulaziz                 QAT   0   1546
+Rashid Almansoori                QAT   0   1546
+Raul Abatte                      CHI   0   1546
+Raul Castellanos                 MEX   0   1546
+Raul De Esteban Martin           ESP   0   1546
+Raul Garcia Calixto              ESP   0   1546
+Raul Hernandez PeÃ±alosa         ESP   0   1546
+Raul Lugo Diaz                   ESP   0   1546
+Raul Martinez Alarcon            CHI   0   1546
+Raul Rosas                       MEX   0   1546
+Raul Zayas Barranquero           ESP   0   1546
+Renato Caniggia Manquez          CHI   0   1546
+Renato Nunes                     BRA   0   1546
+Renato Sena                      ITA   0   1546
+Ricard Manchon Zugasti           ESP   0   1546
+Ricardo Adib                     VEN   0   1546
+Ricardo Fermandez                ESP   0   1546
+Ricardo Gomez martinez-Campos    ESP   0   1546
+Ricardo Menendez                 ECU   0   1546
+Ricardo Mercado Miranda          MEX   0   1546
+Riccardo Cavleri                 ITA   0   1546
+Riccardo Menon                   ITA   0   1546
+Richard Bancroft                 GBR   0   1546
+Rio Murakami                     JPN   0   1546
+Robbe Mertens                    BEL   0   1546
+Robert Kjellberg                       0   1546
+Robertas Sadovskis               LTU   0   1546
+Roberto Bravo                    MEX   0   1546
+Roberto Domizi                   ITA   0   1546
+Roberto Guida                    ITA   0   1546
+Roberto Pardo                    ESP   0   1546
+Roberto Torresano Sanz           ESP   0   1546
+Rocco Salvatore Oliva            ITA   0   1546
+Rodrigo Alejandro Gomez Fretes   PAR   0   1546
+Rodrigo Aza Casaseca             ESP   0   1546
+Rodrigo Cevallos                 ECU   0   1546
+Rodrigo Crivellaro Dias D. C.    BRA   0   1546
+Rodrigo Manrique NuÃ±o                 0   1546
+Rodrigo Maturana                 CHI   0   1546
+Rodrigo MuÃ±oz                   CHI   0   1546
+Rodrigo Waltrick Morgado         BRA   0   1546
+RodrigoÂ centurion               PAR   0   1546
+Roger Gil BalaÃ±a                ESP   0   1546
+Roger Matalonga                  ESP   0   1546
+Rogrigo Tornelli Contreras       ESP   0   1546
+Roham Kordestani                        IRI   0   1546
+Roi Lago Gonzalez                       ESP   0   1546
+Romain Sichez                           FRA   0   1546
+Ronald Beduel                                 0   1546
+Roque Silveira                          BRA   0   1546
+Rowan Powell                            QAT   0   1546
+Ruben Antonio Duarte Villalba           PAR   0   1546
+Ruben Clavijo                           ESP   0   1546
+Ruben Curbelo Nieto                     ESP   0   1546
+Ruben Gomez Saiz                        ESP   0   1546
+Ruben Rosende Molina                    ESP   0   1546
+Rune Smets                              BEL   0   1546
+Ruud Van Hees                                 0   1546
+Ryan Wyatt                              GBR   0   1546
+Ryosuke Takada                          JPN   0   1546
+Saeed Alabdulla                         QAT   0   1546
+Salem Alhouli                           UAE   0   1546
+Salman Alharbi                          KSA   0   1546
+Salman Alsabban                         KSA   0   1546
+Salvador Buezas                         CHI   0   1546
+Salvador Perez Lazaro                   ESP   0   1546
+Salvatore Sollano                       ITA   0   1546
+Sami AlSayyed                           JOR   0   1546
+Sami Iznasni                            FRA   0   1546
+Samir Lahham                            BRA   0   1546
+Samuel Alos Boal                        ESP   0   1546
+Samuel Lopez Navarro                    ESP   0   1546
+Santiago Bravo Cordero                  ESP   0   1546
+Santiago Jose Pineda Cabello            ESP   0   1546
+Santiago Manuel Colombo R.              ARG   0   1546
+Santiago Pomar Gonzalez                 MEX   0   1546
+Santiago Pulpon Feito                   ESP   0   1546
+Santiago Sebastian Strazzabopo Nieves   ARG   0   1546
+Saoud Alhashmi                          QAT   0   1546
+Sarcuto Pompeo                          ITA   0   1546
+Saul Serna Rafael                       ESP   0   1546
+Sean Meyer                              GBR   0   1546
+Sebastian Armijos                       ECU   0   1546
+Sebastian Burbano                       ECU   0   1546
+Sebastian Courbis Laciart               CHI   0   1546
+Sebastian Lagos Cerezo                  CHI   0   1546
+Sebastian Mauricio MuÃ±oz Martinez      ESP   0   1546
+Sebastian Montesi                       ARG   0   1546
+Sebastian Nair Rodriguez Rodriguez      PAR   0   1546
+Sebastian Toledo                        CHI   0   1546
+Sebastien Farhat                        FRA   0   1546
+Seif Attia                              EGY   0   1546
+Seif Mahdi                              EGY   0   1546
+Serge Oliver Becerra                    CHI   0   1546
+Sergi Curto Martinez                    ESP   0   1546
+Sergi Perez Calle           ESP   0   1546
+Sergi Pifarre               ESP   0   1546
+Sergii Zaichenko            UKR   0   1546
+Sergio Augusto Gutierrez    MEX   0   1546
+Sergio Dominguez Jimenez    ESP   0   1546
+Sergio Galvan Lopez         ESP   0   1546
+Sergio Garcia               ESP   0   1546
+Sergio Jimenez Dominguez          0   1546
+Sergio Jose Perez Armador   PUR   0   1546
+Sergio Nieto Simon                0   1546
+Sergio Volpe                ITA   0   1546
+Serguei Boulanov            DEN   0   1546
+Shady Sekkina               EGY   0   1546
+Shengkai Yang               CHN   0   1546
+Sherif Essam                EGY   0   1546
+Simon Villanova             ARG   0   1546
+Simone Galloppa             ITA   0   1546
+Simone Montecchi            ITA   0   1546
+Sixto Hernandez Suarez      ESP   0   1546
+Skander Saheb Ettabaa       TUN   0   1546
+Sohrab Hosseinzadeh Ateri   IRI   0   1546
+Stafano Mattiozzi           ITA   0   1546
+Stefan Cerwenka             AUT   0   1546
+Stefano Balestra            ITA   0   1546
+Stefano Sensati             ITA   0   1546
+Stefano Zedda               ITA   0   1546
+Stephan Nogaret             FRA   0   1546
+Sultan Al-Malki             QAT   0   1546
+Sven Boele                  NED   0   1546
+Taiki Sato                  JPN   0   1546
+Tainan Lorensi Garcia       BRA   0   1546
+Taisei Hasegawa             JPN   0   1546
+Takenari Nishio             JPN   0   1546
+Takumi Hoshi                JPN   0   1546
+Talal Alabdullah            KUW   0   1546
+Tamas Urban                 HUN   0   1546
+Tamer Michael               GBR   0   1546
+Tarek El Kashab             QAT   0   1546
+Tazio Di Pretoro            ITA   0   1546
+Thiago Rodriguez Peyrano    ITA   0   1546
+Thibo Matthyssens           BEL   0   1546
+Thierry Malacamp            FRA   0   1546
+Thomas Cazes Carrere        FRA   0   1546
+Thomas Grubmiller                 0   1546
+Thomas Janssens             BEL   0   1546
+Thomas Knapp                AUT   0   1546
+Thomas Mathieu              CHI   0   1546
+Thomas Mitjana              FRA   0   1546
+Thomas Saiani               ITA   0   1546
+Tim Nowotny                 GER   0   1546
+Tobias Bawden                       GBR   0   1546
+Tobias Emil Galskov                       0   1546
+Tobias Tobler                       AUT   0   1546
+Tom De Boerdere                     NED   0   1546
+Tomas Achondo Hartard               CHI   0   1546
+Tomas Ackerknecht                   CHI   0   1546
+Tomas Del Regno                           0   1546
+Tomas Garcia                              0   1546
+Tomas Juch                          NED   0   1546
+Tomas Reyes                         CHI   0   1546
+Tomislav Margeta                    CRO   0   1546
+Tomoya Miyaura                      JPN   0   1546
+Toni Stjepcevic                     MNE   0   1546
+Toon Punie                          BEL   0   1546
+Toru Saito                          JPN   0   1546
+Tsubasa Suminaka                    JPN   0   1546
+Ukyo Abe                            JPN   0   1546
+Uldis GaismiÅ†Å¡                    LTU   0   1546
+Val Brusylovsky                           0   1546
+Valentin Piastri                    URU   0   1546
+Valentino Brassesco                       0   1546
+Valerio Broccatelli                 ITA   0   1546
+Vegerd Veskimagi                    EST   0   1546
+Veniamin Dubrovin                   MDA   0   1546
+Vicente Vidal Martin                ESP   0   1546
+Victor Bassols Del Cid              ESP   0   1546
+Victor Bolivar Jimenez              ESP   0   1546
+Victor De Oliveira                  BRA   0   1546
+Victor Gendre                       ESP   0   1546
+Victor Gonzaga Nogueira             BRA   0   1546
+Victor Maluquer Trullas             ESP   0   1546
+Victor Morian Vizcaino              ESP   0   1546
+Victor NuÃ±ez                       CHI   0   1546
+Victor Ortega Garcia                ESP   0   1546
+Victor Teboul                       FRA   0   1546
+Viktor Svensson                     SWE   0   1546
+Vincent Dahlin                      SWE   0   1546
+Vincent Schepers                    BEL   0   1546
+Vinicius Rodrigues                  BRA   0   1546
+Vinicius Trevisan                   ITA   0   1546
+Walter Andres Valarezo Plaza        ECU   0   1546
+Walter EzequielÂ ruiz Diaz Vazque   PAR   0   1546
+Wen Yuan                            CHN   0   1546
+Wenceslao Osorio Flores             ESP   0   1546
+Wichy Hernandez Tirado              ESP   0   1546
+Xavier Arquenos Sanchez             ESP   0   1546
+Xavier Masson                       FRA   0   1546
+Xiangling Li                        CHN   0   1546
+Xiaolong Lv                         CHN   0   1546
+Yahiro IvanÂ florentin              ARG   0   1546
+Yann Loupetis            FRA   0   1546
+Yannick Martell Beuzit   ESP   0   1546
+Yannick Verwater         NED   0   1546
+Yannik Molina            ESP   0   1546
+Yannik Molina Dilg       ESP   0   1546
+Yassine Swedan           EGY   0   1546
+Yazeed Alothman          KSA   0   1546
+Yohann Pedder            IND   0   1546
+Yousef Al Mohamadi       QAT   0   1546
+Youssef Abdelbadie       EGY   0   1546
+Youssef Al Mohannadi     QAT   0   1546
+Youssef Amr              EGY   0   1546
+Youssef Khamis           EGY   0   1546
+Youta Tanaka             JPN   0   1546
+Yuki Mashiro             JPN   0   1546
+Yuki Ueda                JPN   0   1546
+Yuko Onodera             JPN   0   1546
+Yusuf Elmenayer          USA   0   1546
+Yusuke Goto              JPN   0   1546
+Yusuke Hori              JPN   0   1546
+Yuta Ichikawa            JPN   0   1546
+Yuta Ogino               JPN   0   1546
+Yuta Suzuki              JPN   0   1546
+Yutaro Yamanouchi        JPN   0   1546
+Ziad El Zarka            EGY   0   1546
