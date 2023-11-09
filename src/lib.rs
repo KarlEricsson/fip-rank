@@ -13,7 +13,7 @@ pub mod cli;
 
 #[derive(Clone, Debug, Deserialize, Tabled)]
 pub struct Player {
-    #[serde(rename = "Name")]
+    #[serde(alias = "Title", rename = "Name")]
     name: String,
     #[serde(rename = "Countries")]
     country: String,
