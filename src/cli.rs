@@ -1,7 +1,9 @@
 use anyhow::Result;
 use dialoguer::{theme::ColorfulTheme, Select};
+use tabled::settings::Style;
+use tabled::Table;
 
-use crate::{get_all_countries, get_top_countries, print_table, Player};
+use crate::{get_all_countries, get_top_countries, Player};
 
 pub fn main_screen(players: &[Player]) -> Result<()> {
     //let options =
@@ -28,7 +30,7 @@ pub fn main_screen(players: &[Player]) -> Result<()> {
 
     Ok(())
 }
-pub fn select_country_rank_screen(players: &[Player]) -> Result<()> {
+fn select_country_rank_screen(players: &[Player]) -> Result<()> {
     let selection = Select::with_theme(&ColorfulTheme::default())
         .with_prompt("Choose your action")
         .default(0)
@@ -46,7 +48,7 @@ pub fn select_country_rank_screen(players: &[Player]) -> Result<()> {
     Ok(())
 }
 
-pub fn country_rank_screen(players: &[Player], countries: Vec<&str>) -> Result<()> {
+fn country_rank_screen(players: &[Player], countries: &[&str]) -> Result<()> {
     let selection = Select::with_theme(&ColorfulTheme::default())
         .with_prompt("Choose your action")
         .default(0)
@@ -63,4 +65,28 @@ pub fn country_rank_screen(players: &[Player], countries: Vec<&str>) -> Result<(
         print_table(&players_from_country)?;
     }
     Ok(())
+}
+
+fn print_table(players: &[Player]) -> Result<()> {
+    let mut table = Table::new(players);
+    table.with(Style::ascii_rounded());
+    println!("{table}");
+    Ok(())
+}
+
+pub fn print_error_names(players: &[Player]) {
+    let replaced_chars = [
+        'ñ', 'ä', 'ò', 'ç', 'ã', 'ö', 'é', 'á', 'ó', 'ń', 'å', 'ï', 'Š', 'ū', 'Á', 'č', 'ž', 'ì',
+        'Â', 'Ž', 'ņ', 'š', 'ı',
+    ];
+    let errors = players
+        .iter()
+        .filter(|&player| !player.name.is_ascii() && !player.name.contains(replaced_chars));
+    let mut names = Vec::new();
+    for player in errors {
+        println!("{} {}", player.position, player.name);
+        names.push(player.name.clone());
+    }
+
+    println!("{}", names.len());
 }

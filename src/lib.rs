@@ -6,8 +6,7 @@ use std::collections::{HashMap, HashSet};
 use std::fs::File;
 use std::io::{self, Write};
 use std::path::Path;
-use tabled::settings::Style;
-use tabled::{Table, Tabled};
+use tabled::Tabled;
 
 pub mod cli;
 
@@ -111,13 +110,6 @@ pub fn read_csv(file: &Path) -> Result<Vec<Player>> {
     Ok(players?)
 }
 
-pub fn print_table(players: &[Player]) -> Result<()> {
-    let mut table = Table::new(players);
-    table.with(Style::ascii_rounded());
-    println!("{table}");
-    Ok(())
-}
-
 fn get_all_countries(players: &[Player]) -> Vec<&str> {
     let mut all_countries: Vec<&str> = players
         .iter()
@@ -147,21 +139,4 @@ fn get_top_countries(players: &[Player]) -> Vec<&str> {
         .collect();
 
     result
-}
-
-pub fn print_error_names(players: &[Player]) {
-    let replaced_chars = [
-        'ñ', 'ä', 'ò', 'ç', 'ã', 'ö', 'é', 'á', 'ó', 'ń', 'å', 'ï', 'Š', 'ū', 'Á', 'č', 'ž', 'ì',
-        'Â', 'Ž', 'ņ', 'š',
-    ];
-    let errors = players
-        .iter()
-        .filter(|&player| !player.name.is_ascii() && !player.name.contains(replaced_chars));
-    let mut names = Vec::new();
-    for player in errors {
-        println!("{} {}", player.position, player.name);
-        names.push(player.name.clone());
-    }
-
-    println!("{}", names.len());
 }
