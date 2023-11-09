@@ -40,8 +40,8 @@ fn select_country_rank_screen(players: &[Player]) -> Result<()> {
 
     if let Some(index) = selection {
         match index {
-            0 => country_rank_screen(players, get_top_countries(players))?,
-            1 => country_rank_screen(players, get_all_countries(players))?,
+            0 => country_rank_screen(players, &get_top_countries(players))?,
+            1 => country_rank_screen(players, &get_all_countries(players))?,
             _ => (),
         }
     }
@@ -53,7 +53,7 @@ fn country_rank_screen(players: &[Player], countries: &[&str]) -> Result<()> {
         .with_prompt("Choose your action")
         .default(0)
         .max_length(10)
-        .items(&countries)
+        .items(countries)
         .interact_opt()?;
 
     if let Some(i) = selection {
