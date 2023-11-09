@@ -69,6 +69,7 @@ pub fn poppler_txt_to_csv() -> Result<()> {
             ("Â", ""),
             ("Å†", "ņ"),
             ("Å¡", "š"),
+            ("Ä±", "ı"),
         ];
         if !name.is_ascii() {
             for (from, to) in &replacements {
