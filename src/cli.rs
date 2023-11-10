@@ -69,7 +69,7 @@ fn country_rank_screen(players: &[Player], countries: &[&str]) -> Result<()> {
 
 fn print_table(players: &[Player]) -> Result<()> {
     let mut table = Table::new(players);
-    table.with(Style::ascii_rounded());
+    table.with(Style::rounded());
     println!("{table}");
     Ok(())
 }
