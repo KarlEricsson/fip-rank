@@ -1,4 +1,4 @@
-use anyhow::{anyhow, Result};
+use anyhow::{anyhow, Context, Result};
 use csv::Reader;
 use itertools::Itertools;
 use serde::Deserialize;
@@ -26,7 +26,8 @@ pub fn poppler_txt_to_csv() -> Result<()> {
     // currently using popplers pdftotext with the following arguments:
     // pdftotext -layout -nopgbrk -enc UTF-8 Ranking-Male-11-09-2023.pdf rank_full.txt
     // ranking is available at padelfip.com
-    let file = File::open("rank_full-UTF-8.txt")?;
+    let file = File::open("rank_full-UTF-8.txt")
+        .context("Please provide a parsed textfile called rank_full-UTF-8.txt")?;
     let reader = io::read_to_string(file)?;
     let mut reader_lines = reader.lines();
 
