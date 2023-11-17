@@ -20,7 +20,7 @@ impl Display for DisplayOption<i16> {
     fn fmt(&self, f: &mut std::fmt::Formatter) -> std::fmt::Result {
         match &self.0 {
             Some(val) => match val {
-                n if n > &0 => write!(f, "+{val}"),
+                n if n > &0 => write!(f, "+{}", val),
                 n if n < &0 => write!(f, "{}", val),
                 _ => write!(f, "{}", val),
             },
