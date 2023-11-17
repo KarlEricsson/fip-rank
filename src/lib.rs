@@ -107,7 +107,7 @@ pub fn poppler_txt_to_csv(text_file: &Path, csv_filename: &Path) -> Result<()> {
 
     for line in reader_lines {
         let data = line
-            .split_once("  ")
+            .split_once("   ")
             .ok_or_else(|| anyhow!("Line should not be empty"))?;
 
         let mut name = data.0.to_string();
