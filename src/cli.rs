@@ -1,27 +1,32 @@
+use std::{fs, path::PathBuf};
+
 use anyhow::Result;
 use dialoguer::{theme::ColorfulTheme, Select};
-use tabled::settings::Style;
-use tabled::Table;
+use tabled::{settings::Style, Table};
 
-use crate::{get_all_countries, get_top_countries, Player};
+use crate::{add_rank_history, get_all_countries, get_top_countries, Player};
 
-pub fn main_screen(players: &[Player]) -> Result<()> {
+pub fn main_screen(players: &mut [Player]) -> Result<()> {
     //let options =
 
     let selection = Select::with_theme(&ColorfulTheme::default())
         .with_prompt("Choose your action")
         .default(0)
         .item("Print all players")
-        .item("Print top 50 ranking")
+        .item("Print top 50")
+        .item("Print top 200")
         .item("Print country ranking")
+        .item("Compare with previous ranking")
         // .item("Print error names")
         .interact_opt()?;
     if let Some(index) = selection {
         match index {
             0 => print_table(players)?,
-            1 => print_table(&players[0..49])?,
-            2 => select_country_rank_screen(players)?,
-            //3 => print_error_names(players),
+            1 => print_table(&players[0..50])?,
+            2 => print_table(&players[0..200])?,
+            3 => select_country_rank_screen(players)?,
+            4 => add_rank_history(players, &select_file()?)?,
+            // 5 => print_error_names(players),
             _ => (),
         }
     } else {
@@ -89,4 +94,26 @@ pub fn print_error_names(players: &[Player]) {
     }
 
     println!("{}", names.len());
+}
+
+fn select_file() -> Result<PathBuf> {
+    let files: Vec<_> = fs::read_dir("./")?
+        .filter_map(Result::ok)
+        .filter(|entry| {
+            entry.file_name().to_string_lossy().contains("rank_male_")
+                && entry
+                    .path()
+                    .extension()
+                    .expect("No file extension found")
+                    .to_string_lossy()
+                    .contains("txt")
+        })
+        .map(|entry| entry.path().display().to_string())
+        .collect();
+
+    let selection = Select::new()
+        .with_prompt("Select a file")
+        .items(&files)
+        .interact()?;
+    Ok(PathBuf::from(files[selection].as_str()))
 }
